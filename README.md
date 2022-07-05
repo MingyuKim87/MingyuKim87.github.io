@@ -1,6 +1,8 @@
-# MingyuKim87.github.io
+# mingyukim87.github.io
 
-This GitHub.io page is written by *Plainwhite Theme*
+This GitHub.io page is written by *Plainwhite Theme*  
+
+
 If you want to make a GitHub.io page like this page, please refer the documentation of [plainwhite theme][https://github.com/samarsault/plainwhite-jekyll]
 
 ## For Github Pages
