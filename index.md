@@ -6,7 +6,7 @@ layout: page
 
 ## About 
 
-I’m an PhD candidate in the Kim Jaechul Graduate School of AI at Korea Advanced Institute of Science and Technology (KAIST AI), advised by Prof. [Se-young Yun][seyoung-yun]. Prior to beginning of my PhD course, I worked as a research engineer at Samsung Heavy Industires. I recieved an M.S. in Ocean system engieerning from KAIST under the supervision of Prof. [Hyun Chung][hyun-chung] and B.S in Industrial engineering at Konkuk University. My research interests focus on meta-learning, multi-agent reinforcement learning and bayesian non-parameteric models and its applications. Here is my [CV].    
+I’m an PhD candidate in the Kim Jaechul Graduate School of AI at Korea Advanced Institute of Science and Technology (KAIST AI), advised by Prof. [Se-young Yun][seyoung-yun]. Prior to beginning of my PhD course, I worked as a research engineer at Samsung Heavy Industires. I recieved an M.S. in Ocean system engieerning from KAIST under the supervision of Prof. [Hyun Chung][hyun-chung] and B.S in Industrial engineering at Konkuk University. My research interests focus on meta-learning, bayesian non-parameteric models, multi-agent reinforcement learning and its applications. Here is my [CV].    
 
 ## Contact 
 
@@ -26,44 +26,85 @@ Email : callingu [at] kaist.ac.kr
 ## Awards
 <hr>
 
-[2021] 2nd Winner in Student track at [machine learning for combinatorial optimization challenge(ML4CO)][ML4CO] in NeurIPS2021 (Team : *KAIST_OSI*, Team leader).  
-[2016] Outstanding Project for Increasing Productivity at Samsung Heavy Industires.      
+[2021] 2nd Winner in Student track at [Machine Learning for Combinatorial Optimization Challenge(ML4CO)][ML4CO] in NeurIPS2021 (Team : *KAIST_OSI*, Team leader).  
+[2016] Outstanding Project for Increasing Productivity at Samsung Heavy Industires.    
+  
 
 <br/>
 <br/>  
 
 
-## Publication (**Peer reviewed**)
+## Conference Publications (**Peer reviewed**)
+<hr>
+
+**<span style="font-family:Raleway; font-size:1.2em;"> Neural Processes with Stochastic Attention: Paying more attention to the context dataset </span>**  
+[[paper]][npwsa][[code]][npwsa_code][[video]][npwsa_video]  
+<U>Mingyu Kim</U>, Kyeong Ryeol Go and Se-Young Yun  
+ International Conference on Learning Representations (ICLR) 2022, Virtual  
+
+<br/>
+<br/> 
+
+## Workshop Publications (**Peer reviewed**)
 <hr>
 
 **<span style="font-family:Raleway; font-size:1.2em;">The StarCraft Multi-Agent Challenges+ : Learning Multi-Stage Tasks and Environmental Factors without Precise Reward Functions</span>**  
 *To appear*  
-<U>Mingyu Kim*</U>, Jihwan Oh\*, Yongsik Lee, Joonkee Kim, SeongHwan Kim, Song Chong, Se-Young Yun  
-AI for Agent Based Modeling Workshop(*Spotlight*) in ICML 2022, Baltimore  
+<U>Mingyu Kim*</U>, Jihwan Oh\*, Yongsik Lee, Joonkee Kim, SeongHwan Kim, Song Chong and Se-Young Yun  
+AI for Agent Based Modeling Workshop(*Spotlight*) in International Conference on Machine Learning (ICML) 2022, Baltimore  
 
 **<span style="font-family:Raleway; font-size:1.2em;"> Neural Processes with Stochastic Attention: Paying more attention to the context dataset </span>**  
-[[paper]][npwsa][[code]][npwsa_code][[video]][npwsa_video]  
-<U>Mingyu Kim</U>, Kyeong Ryeol Go, Se-Young Yun  
- International Conference on Learning Representations (ICLR) 2022  
- (Presented at 5th meta-learn workshop at NeurIPS 2021)
+[[paper]][npwsa_workshop][[code]][npwsa_code]  
+<U>Mingyu Kim</U>, Kyeong Ryeol Go and Se-Young Yun  
+5th Meta-learn Workshop at Neural Information Processing Systems (NeurIPS) 2021, Virtual  
+
+<br/>
+<br/>  
+
+## Journal Publications (**Peer reviewed**)
+<hr>
 
 **<span style="font-family:Raleway; font-size:1.2em;">  Simplified welding distortion analysis for fillet welding using composite shell elements </span>**  
 [[paper]][shellsbd]  
-<U>Mingyu Kim</U>, Minseok Kang, Hyun Chung  
+<U>Mingyu Kim</U>, Minseok Kang and Hyun Chung  
 International Journal of Naval Architecture and Ocean Engineering, Vol. 7(3), 2015  
 
 **<span style="font-family:Raleway; font-size:1.2em;"> Optimization of P.E area division and arrangement based on product mix </span>**  
 [[paper]][peoptim]  
-Sanghwan Kim, <U>Mingyu Kim</U>, Hyun Chung  
+Sanghwan Kim, <U>Mingyu Kim</U> and Hyun Chung  
 Journal of Marine Science and Technology, Vol. 19(4), 2014
 
+**<span style="font-family:Raleway; font-size:1.2em;">  Optimization of Quantity Allocation using Integer Linear Programming in Shipbuilding Industry </span>**  
+[[paper]][optim_allo]  
+Junggoo Park, <U>Mingyu Kim</U>   
+Journal of the Society of Naval Architecture of Korea (*Domestic*), Vol. 57(1), 2020
+
+**<span style="font-family:Raleway; font-size:1.2em;">  A Study on Process Management Method of Offshore Plant Piping Material using Process Mining Technique </span>**  
+[[paper]][process_manage]  
+Junggoo Park, Hojung Kim, <U>Mingyu Kim</U>, Jichan Park  
+Journal of the Society of Naval Architecture of Korea (*Domestic*), Vol. 56(2), 2019
+
+**<span style="font-family:Raleway; font-size:1.2em;">  A Study on the Installation Readiness Management Method of Offshore Plant using CAD Information </span>**  
+[[paper]][cad_info]  
+Junggoo Park, Hojung Kim, <U>Mingyu Kim</U>, Jichan Park  
+Journal of the Society of Naval Architecture of Korea (*Domestic*), Vol. 56(2), 2019  
+
+**<span style="font-family:Raleway; font-size:1.2em;">  A Study on the Utilization Strategy of Social Commerce in Small Restaurants </span>**  
+[[paper]][restaurant]  
+Sungseok Ko, <U>Mingyu Kim</U>, Yungjin Yoo, Seoksul Kim  
+Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*), Vol. 35(1), 2012
 
 [seyoung-yun]: http://osi.kaist.ac.kr/professor/
 [hyun-chung]: http://psel.cnu.ac.kr/mdps_team/dr-hyun-chung/
 [CV]: https://drive.google.com/file/d/1VJ0LCn13SUGpw4xse1hWYFHA5f1wVVtt/view?usp=sharing
 [ML4CO]: https://www.ecole.ai/2021/ml4co-competition/
 [npwsa]: https://openreview.net/pdf?id=JPkQwEdYn8
+[npwsa_workshop]: https://openreview.net/forum?id=URep0STGewu&referrer=[the%20profile%20of%20Mingyu%20Kim]
 [shellsbd]: https://www.sciencedirect.com/science/article/pii/S2092678216300577?via%3Dihub
 [peoptim]: https://link.springer.com/article/10.1007/s00773-014-0274-1
+[optim_allo]: https://www.dbpia.co.kr/Journal/ArticleDetail/NODE09299075
+[cad_info]: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08000981&language=ko_KR&hasTopBanner=true
+[process_manage]: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08000980&language=ko_KR&hasTopBanner=true
+[restaurant]: https://www.koreascience.or.kr/article/JAKO201218553921111.view?orgId=anpor&hide=breadcrumb,journalinfo
 [npwsa_code]: https://github.com/MingyuKim87/NPwSA
 [npwsa_video]: https://iclr.cc/virtual/2022/poster/6815
