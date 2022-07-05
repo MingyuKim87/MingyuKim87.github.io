@@ -4,7 +4,7 @@ layout: page
 
 <hr>
 
-## About 
+## About me
 
 I’m an PhD candidate in the Kim Jaechul Graduate School of AI at Korea Advanced Institute of Science and Technology (KAIST AI), advised by Prof. [Se-young Yun][seyoung-yun]. Prior to beginning of my PhD course, I worked as a research engineer at Samsung Heavy Industires. I recieved an M.S. in Ocean system engieerning from KAIST under the supervision of Prof. [Hyun Chung][hyun-chung] and B.S in Industrial engineering at Konkuk University. My research interests focus on meta-learning, bayesian non-parameteric models, multi-agent reinforcement learning and its applications. Here is my [CV].    
 
