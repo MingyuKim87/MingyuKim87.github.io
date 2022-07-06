@@ -49,7 +49,7 @@ Email : callingu [at] kaist.ac.kr
 <hr>
 
 **<span style="font-family:Raleway; font-size:1.2em;">The StarCraft Multi-Agent Challenges+ : Learning Multi-Stage Tasks and Environmental Factors without Precise Reward Functions</span>**  
-*To appear*  
+[[paper]][smac_plus_workshop][[code]][smac_plus_code]  
 <U>Mingyu Kim*</U>, Jihwan Oh\*, Yongsik Lee, Joonkee Kim, SeongHwan Kim, Song Chong and Se-Young Yun  
 AI for Agent Based Modeling Workshop(*Spotlight*) in International Conference on Machine Learning (ICML) 2022, Baltimore  
 
@@ -100,6 +100,8 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [ML4CO]: https://www.ecole.ai/2021/ml4co-competition/
 [npwsa]: https://openreview.net/pdf?id=JPkQwEdYn8
 [npwsa_workshop]: https://openreview.net/forum?id=URep0STGewu&referrer=[the%20profile%20of%20Mingyu%20Kim]
+[smac_plus_workshop]: https://arxiv.org/abs/2207.02007
+[smac_plus_code]: https://github.com/osilab-kaist/smac_plus
 [shellsbd]: https://www.sciencedirect.com/science/article/pii/S2092678216300577?via%3Dihub
 [peoptim]: https://link.springer.com/article/10.1007/s00773-014-0274-1
 [optim_allo]: https://www.dbpia.co.kr/Journal/ArticleDetail/NODE09299075
