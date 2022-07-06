@@ -56,7 +56,7 @@ AI for Agent Based Modeling Workshop(*Spotlight*) in International Conference on
 **<span style="font-family:Raleway; font-size:1.2em;"> Neural Processes with Stochastic Attention: Paying more attention to the context dataset </span>**  
 [[paper]][npwsa_workshop][[code]][npwsa_code]  
 <U>Mingyu Kim</U>, Kyeong Ryeol Go and Se-Young Yun  
-5th Meta-learn Workshop at Neural Information Processing Systems (NeurIPS) 2021, Virtual  
+5th Meta-learn Workshop in Neural Information Processing Systems (NeurIPS) 2021, Virtual  
 
 <br/>
 <br/>  
