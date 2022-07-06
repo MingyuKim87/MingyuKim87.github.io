@@ -53,6 +53,11 @@ Email : callingu [at] kaist.ac.kr
 <U>Mingyu Kim*</U>, Jihwan Oh\*, Yongsik Lee, Joonkee Kim, SeongHwan Kim, Song Chong and Se-Young Yun  
 AI for Agent Based Modeling Workshop(*Spotlight*) in International Conference on Machine Learning (ICML) 2022, Baltimore  
 
+**<span style="font-family:Raleway; font-size:1.2em;">AVATAR: AI Vision Analysis for Three-dimensional Action in Real-time	</span>**  
+*To appear*  
+Daegun Kim\*, Jineun Kim\*, Wongyo Jung\*, Jungoon Park\*, <U>Mingyu Kim*</U>, Anna Shin, Yong-Cheol Jeong, Seahyung Park, Gwanhoo Shin, Yewon Lee, Jea Kwon, Daesoo Kim  
+CV4Animals Workshop in Computer Vision and Pattern Recognition Conference (CVPR) 2022, New Orleans  
+
 **<span style="font-family:Raleway; font-size:1.2em;"> Neural Processes with Stochastic Attention: Paying more attention to the context dataset </span>**  
 [[paper]][npwsa_workshop][[code]][npwsa_code]  
 <U>Mingyu Kim</U>, Kyeong Ryeol Go and Se-Young Yun  
