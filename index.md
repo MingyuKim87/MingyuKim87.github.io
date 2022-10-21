@@ -99,13 +99,18 @@ Journal of the Society of Naval Architecture of Korea (*Domestic*), Vol. 56(2), 
 Sungseok Ko, <U>Mingyu Kim</U>, Yungjin Yoo, Seoksul Kim  
 Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*), Vol. 35(1), 2012
 
+
 <br/>
 <br/>  
 
-### Academic Services (**Peer reviewed**)
+### Academic Services 
 <hr>
+
 [Conference Reviewer] NeurIPS2022 Dataset and Benchmark Track, ICLR2023
 [Workshop Reviewer] MetaLearn in NeurIPS2021
+
+<br/>
+<br/>  
 
 
 [seyoung-yun]: http://osi.kaist.ac.kr/professor/
