@@ -54,7 +54,6 @@ Email : callingu [at] kaist.ac.kr
 AI for Agent Based Modeling Workshop(*Spotlight*) in International Conference on Machine Learning (ICML) 2022, Baltimore  
 
 **<span style="font-family:Raleway; font-size:1.2em;">AVATAR: AI Vision Analysis for Three-dimensional Action in Real-time	</span>**  
-*To appear*  
 Daegun Kim\*, Jineun Kim\*, Wongyo Jung\*, Jungoon Park\*, <U>Mingyu Kim*</U>, Anna Shin, Yong-Cheol Jeong, Seahyung Park, Gwanhoo Shin, Yewon Lee, Jea Kwon, Daesoo Kim  
 CV4Animals Workshop in Computer Vision and Pattern Recognition Conference (CVPR) 2022, New Orleans  
 
@@ -69,10 +68,16 @@ CV4Animals Workshop in Computer Vision and Pattern Recognition Conference (CVPR)
 ## Journal Publications (**Peer reviewed**)
 <hr>
 
+
 **<span style="font-family:Raleway; font-size:1.2em;">  Simplified welding distortion analysis for fillet welding using composite shell elements </span>**  
 [[paper]][shellsbd]  
 <U>Mingyu Kim</U>, Minseok Kang and Hyun Chung  
 International Journal of Naval Architecture and Ocean Engineering, Vol. 7(3), 2015  
+
+**<span style="font-family:Raleway; font-size:1.2em;">  Meta-learning Amidst Heterogeneity and Ambiguity </span>**  
+[[paper]][MAHA]  
+KyeongRyeol Go, <U>Mingyu Kim</U>, and Se-young Yun  
+IEEE Access, 2022 (*To apper*)
 
 **<span style="font-family:Raleway; font-size:1.2em;"> Optimization of P.E area division and arrangement based on product mix </span>**  
 [[paper]][peoptim]  
@@ -123,6 +128,7 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [smac_plus_code]: https://github.com/osilab-kaist/smac_plus
 [smac_plus_project]: https://osilab-kaist.github.io/smac_plus/
 [shellsbd]: https://www.sciencedirect.com/science/article/pii/S2092678216300577?via%3Dihub
+[MAHA]: https://arxiv.org/abs/2107.02228
 [peoptim]: https://link.springer.com/article/10.1007/s00773-014-0274-1
 [optim_allo]: https://www.dbpia.co.kr/Journal/ArticleDetail/NODE09299075
 [cad_info]: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08000981&language=ko_KR&hasTopBanner=true
