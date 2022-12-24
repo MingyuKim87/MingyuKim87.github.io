@@ -77,7 +77,7 @@ International Journal of Naval Architecture and Ocean Engineering, Vol. 7(3), 20
 **<span style="font-family:Raleway; font-size:1.2em;">  Meta-learning Amidst Heterogeneity and Ambiguity </span>**  
 [[paper]][MAHA]  
 KyeongRyeol Go, <U>Mingyu Kim</U>, and Se-young Yun  
-IEEE Access, 2022 (*To apper*)
+IEEE Access, 2022  
 
 **<span style="font-family:Raleway; font-size:1.2em;"> Optimization of P.E area division and arrangement based on product mix </span>**  
 [[paper]][peoptim]  
