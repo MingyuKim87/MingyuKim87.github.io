@@ -128,7 +128,7 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [smac_plus_code]: https://github.com/osilab-kaist/smac_plus
 [smac_plus_project]: https://osilab-kaist.github.io/smac_plus/
 [shellsbd]: https://www.sciencedirect.com/science/article/pii/S2092678216300577?via%3Dihub
-[MAHA]: https://arxiv.org/abs/2107.02228
+[MAHA]: https://ieeexplore.ieee.org/document/9982600
 [peoptim]: https://link.springer.com/article/10.1007/s00773-014-0274-1
 [optim_allo]: https://www.dbpia.co.kr/Journal/ArticleDetail/NODE09299075
 [cad_info]: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08000981&language=ko_KR&hasTopBanner=true
