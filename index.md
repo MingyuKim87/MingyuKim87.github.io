@@ -18,7 +18,7 @@ Email : callingu [at] kaist.ac.kr
 <hr>
 
 [2014~2019] Research engineer at Samsung Heavy Industries  
-[2023] Research Intern at NAVER CLOVA AI Lab.
+[2023] Research Intern at NAVER Cloud AI Lab.
 
 <br/>
 <br/>  
