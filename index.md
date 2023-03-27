@@ -69,6 +69,11 @@ CV4Animals Workshop in Computer Vision and Pattern Recognition Conference (CVPR)
 ## Journal Publications (**Peer reviewed**)
 <hr>
 
+**<span style="font-family:Raleway; font-size:1.2em;">The StarCraft Multi-Agent Exploration Challenges : Learning Multi-Stage Tasks and Environmental Factors without Precise Reward Functions</span>**  
+[[paper]][smac_plus_workshop][[code]][smac_plus_code][[projectpage]][smac_plus_project]  
+<U>Mingyu Kim*</U>, Jihwan Oh\*, Yongsik Lee, Joonkee Kim, SeongHwan Kim, Song Chong and Se-Young Yun  
+IEEE Access, 2023  
+
 
 **<span style="font-family:Raleway; font-size:1.2em;">  Simplified welding distortion analysis for fillet welding using composite shell elements </span>**  
 [[paper]][shellsbd]  
