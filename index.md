@@ -80,6 +80,7 @@ IEEE Access, 2023
 <U>Mingyu Kim</U>, Minseok Kang and Hyun Chung  
 International Journal of Naval Architecture and Ocean Engineering, Vol. 7(3), 2015  
 
+
 **<span style="font-family:Raleway; font-size:1.2em;">  Meta-learning Amidst Heterogeneity and Ambiguity </span>**  
 [[paper]][MAHA]  
 KyeongRyeol Go, <U>Mingyu Kim</U>, and Se-young Yun  
