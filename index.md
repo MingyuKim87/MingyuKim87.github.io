@@ -50,7 +50,7 @@ Email : callingu [at] kaist.ac.kr
 <hr>
 
 **<span style="font-family:Raleway; font-size:1.2em;">The StarCraft Multi-Agent Challenges+ : Learning Multi-Stage Tasks and Environmental Factors without Precise Reward Functions</span>**  
-[[paper]][smac_plus_workshop][[code]][smac_plus_code][[projectpage]][smac_plus_project]  
+[[paper]][smac_plus_workshop][[code]][smac_exp_code][[projectpage]][smac_exp_project]  
 <U>Mingyu Kim*</U>, Jihwan Oh\*, Yongsik Lee, Joonkee Kim, SeongHwan Kim, Song Chong and Se-Young Yun  
 AI for Agent Based Modeling Workshop(*Spotlight*) in International Conference on Machine Learning (ICML) 2022, Baltimore  
 
@@ -70,7 +70,7 @@ CV4Animals Workshop in Computer Vision and Pattern Recognition Conference (CVPR)
 <hr>
 
 **<span style="font-family:Raleway; font-size:1.2em;">The StarCraft Multi-Agent Exploration Challenges : Learning Multi-Stage Tasks and Environmental Factors without Precise Reward Functions</span>**  
-[[paper]][smac_plus_workshop][[code]][smac_plus_code][[projectpage]][smac_plus_project]  
+[[paper]][smac_exp][[code]][smac_exp_code][[projectpage]][smac_exp_project]  
 <U>Mingyu Kim*</U>, Jihwan Oh\*, Yongsik Lee, Joonkee Kim, SeongHwan Kim, Song Chong and Se-Young Yun  
 IEEE Access, 2023  
 
@@ -131,9 +131,10 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [ML4CO]: https://www.ecole.ai/2021/ml4co-competition/
 [npwsa]: https://openreview.net/pdf?id=JPkQwEdYn8
 [npwsa_workshop]: https://openreview.net/forum?id=URep0STGewu&referrer=[the%20profile%20of%20Mingyu%20Kim]
-[smac_plus_workshop]: https://ieeexplore.ieee.org/document/10099458  
-[smac_plus_code]: https://github.com/osilab-kaist/smac_exp
-[smac_plus_project]: https://osilab-kaist.github.io/smac_exp/  
+[smac_exp]: https://ieeexplore.ieee.org/document/10099458  
+[smac_exp_code]: https://github.com/osilab-kaist/smac_exp
+[smac_exp_project]: https://osilab-kaist.github.io/smac_exp/  
+[smac_plus_workshop]: https://arxiv.org/abs/2207.02007  
 [shellsbd]: https://www.sciencedirect.com/science/article/pii/S2092678216300577?via%3Dihub
 [MAHA]: https://ieeexplore.ieee.org/document/9982600
 [peoptim]: https://link.springer.com/article/10.1007/s00773-014-0274-1
