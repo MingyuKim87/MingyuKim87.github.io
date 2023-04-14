@@ -131,9 +131,9 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [ML4CO]: https://www.ecole.ai/2021/ml4co-competition/
 [npwsa]: https://openreview.net/pdf?id=JPkQwEdYn8
 [npwsa_workshop]: https://openreview.net/forum?id=URep0STGewu&referrer=[the%20profile%20of%20Mingyu%20Kim]
-[smac_plus_workshop]: https://arxiv.org/abs/2207.02007
-[smac_plus_code]: https://github.com/osilab-kaist/smac_plus
-[smac_plus_project]: https://osilab-kaist.github.io/smac_plus/
+[smac_plus_workshop]: https://ieeexplore.ieee.org/document/10099458  
+[smac_plus_code]: https://github.com/osilab-kaist/smac_exp
+[smac_plus_project]: https://osilab-kaist.github.io/smac_exp/  
 [shellsbd]: https://www.sciencedirect.com/science/article/pii/S2092678216300577?via%3Dihub
 [MAHA]: https://ieeexplore.ieee.org/document/9982600
 [peoptim]: https://link.springer.com/article/10.1007/s00773-014-0274-1
