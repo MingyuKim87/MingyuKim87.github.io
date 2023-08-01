@@ -59,7 +59,7 @@ Engineering Applications of Artificial Intelligence, 2023
 **<span style="font-family:Raleway; font-size:1.2em;">The StarCraft Multi-Agent Exploration Challenges : Learning Multi-Stage Tasks and Environmental Factors without Precise Reward Functions</span>**  
 [[paper]][smac_exp][[code]][smac_exp_code][[projectpage]][smac_exp_project]  
 <U>Mingyu Kim*</U>, Jihwan Oh\*, Yongsik Lee, Joonkee Kim, SeongHwan Kim, Song Chong and Se-Young Yun  
-IEEE Access, 2023  
+IEEE Access, Vol. 11, 2023  
 
 
 **<span style="font-family:Raleway; font-size:1.2em;">  Simplified welding distortion analysis for fillet welding using composite shell elements </span>**  
@@ -71,7 +71,7 @@ International Journal of Naval Architecture and Ocean Engineering, Vol. 7(3), 20
 **<span style="font-family:Raleway; font-size:1.2em;">  Meta-learning Amidst Heterogeneity and Ambiguity </span>**  
 [[paper]][MAHA]  
 KyeongRyeol Go, <U>Mingyu Kim</U>, and Se-young Yun  
-IEEE Access, 2022  
+IEEE Access, Vol. 11, 2023  
 
 **<span style="font-family:Raleway; font-size:1.2em;"> Optimization of P.E area division and arrangement based on product mix </span>**  
 [[paper]][peoptim]  
