@@ -46,28 +46,14 @@ Email : callingu [at] kaist.ac.kr
 <br/>
 <br/> 
 
-## Workshop Publications (**Peer reviewed**)
-<hr>
-
-**<span style="font-family:Raleway; font-size:1.2em;">The StarCraft Multi-Agent Challenges+ : Learning Multi-Stage Tasks and Environmental Factors without Precise Reward Functions</span>**  
-[[paper]][smac_plus_workshop][[code]][smac_exp_code][[projectpage]][smac_exp_project]  
-<U>Mingyu Kim*</U>, Jihwan Oh\*, Yongsik Lee, Joonkee Kim, SeongHwan Kim, Song Chong and Se-Young Yun  
-AI for Agent Based Modeling Workshop(*Spotlight*) in International Conference on Machine Learning (ICML) 2022, Baltimore  
-
-**<span style="font-family:Raleway; font-size:1.2em;">AVATAR: AI Vision Analysis for Three-dimensional Action in Real-time	</span>**  
-Daegun Kim\*, Jineun Kim\*, Wongyo Jung\*, Jungoon Park\*, <U>Mingyu Kim*</U>, Anna Shin, Yong-Cheol Jeong, Seahyung Park, Gwanhoo Shin, Yewon Lee, Jea Kwon, Daesoo Kim  
-CV4Animals Workshop in Computer Vision and Pattern Recognition Conference (CVPR) 2022, New Orleans  
-
-**<span style="font-family:Raleway; font-size:1.2em;"> Neural Processes with Stochastic Attention: Paying more attention to the context dataset </span>**  
-[[paper]][npwsa_workshop][[code]][npwsa_code]  
-<U>Mingyu Kim</U>, Kyeong Ryeol Go and Se-Young Yun  
-5th Meta-learn Workshop in Neural Information Processing Systems (NeurIPS) 2021, Virtual  
-
-<br/>
-<br/>  
-
 ## Journal Publications (**Peer reviewed**)
 <hr>
+
+**<span style="font-family:Raleway; font-size:1.2em;">PolarGAN: Creating Realistic Arctic Sea Ice Concentration Images with User-Defined Geometric Preferences</span>**  
+[[paper]][smac_exp][[code]][smac_exp_code][[projectpage]][smac_exp_project]  
+Mingyu Kim, Jaekyeong Lee, Leechan Choi, and Minjoo Choi  
+Engineering Applications of Artificial Intelligence, 2023  
+
 
 **<span style="font-family:Raleway; font-size:1.2em;">The StarCraft Multi-Agent Exploration Challenges : Learning Multi-Stage Tasks and Environmental Factors without Precise Reward Functions</span>**  
 [[paper]][smac_exp][[code]][smac_exp_code][[projectpage]][smac_exp_project]  
@@ -111,6 +97,27 @@ Journal of the Society of Naval Architecture of Korea (*Domestic*), Vol. 56(2), 
 Sungseok Ko, <U>Mingyu Kim</U>, Yungjin Yoo, Seoksul Kim  
 Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*), Vol. 35(1), 2012
 
+
+<br/>
+<br/>  
+
+
+## Workshop Publications (**Peer reviewed**)
+<hr>
+
+**<span style="font-family:Raleway; font-size:1.2em;">The StarCraft Multi-Agent Challenges+ : Learning Multi-Stage Tasks and Environmental Factors without Precise Reward Functions</span>**  
+[[paper]][smac_plus_workshop][[code]][smac_exp_code][[projectpage]][smac_exp_project]  
+<U>Mingyu Kim*</U>, Jihwan Oh\*, Yongsik Lee, Joonkee Kim, SeongHwan Kim, Song Chong and Se-Young Yun  
+AI for Agent Based Modeling Workshop(*Spotlight*) in International Conference on Machine Learning (ICML) 2022, Baltimore  
+
+**<span style="font-family:Raleway; font-size:1.2em;">AVATAR: AI Vision Analysis for Three-dimensional Action in Real-time	</span>**  
+Daegun Kim\*, Jineun Kim\*, Wongyo Jung\*, Jungoon Park\*, <U>Mingyu Kim*</U>, Anna Shin, Yong-Cheol Jeong, Seahyung Park, Gwanhoo Shin, Yewon Lee, Jea Kwon, Daesoo Kim  
+CV4Animals Workshop in Computer Vision and Pattern Recognition Conference (CVPR) 2022, New Orleans  
+
+**<span style="font-family:Raleway; font-size:1.2em;"> Neural Processes with Stochastic Attention: Paying more attention to the context dataset </span>**  
+[[paper]][npwsa_workshop][[code]][npwsa_code]  
+<U>Mingyu Kim</U>, Kyeong Ryeol Go and Se-Young Yun  
+5th Meta-learn Workshop in Neural Information Processing Systems (NeurIPS) 2021, Virtual  
 
 <br/>
 <br/>  
