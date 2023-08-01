@@ -85,7 +85,7 @@ Journal of the Society of Naval Architecture of Korea (*Domestic*), Vol. 57(1), 
 
 **<span style="font-family:Raleway; font-size:1.2em;">  A Study on Process Management Method of Offshore Plant Piping Material using Process Mining Technique </span>**  
 [[paper]][process_manage]  
-Junggoo Park, Hojung Kim, <U>Mingyu Kim</U>, Jichan Park  
+Junggoo Park, <U>Mingyu Kim</U>, Jichan Park  
 Journal of the Society of Naval Architecture of Korea (*Domestic*), Vol. 56(2), 2019
 
 **<span style="font-family:Raleway; font-size:1.2em;">  A Study on the Installation Readiness Management Method of Offshore Plant using CAD Information </span>**  
