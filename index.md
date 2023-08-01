@@ -78,27 +78,6 @@ IEEE Access, Vol. 11, 2023
 Sanghwan Kim, <U>Mingyu Kim</U> and Hyun Chung  
 Journal of Marine Science and Technology, Vol. 19(4), 2014
 
-**<span style="font-family:Raleway; font-size:1.2em;">  Optimization of Quantity Allocation using Integer Linear Programming in Shipbuilding Industry </span>**  
-[[paper]][optim_allo]  
-Junggoo Park, <U>Mingyu Kim</U>   
-Journal of the Society of Naval Architecture of Korea (*Domestic*), Vol. 57(1), 2020
-
-**<span style="font-family:Raleway; font-size:1.2em;">  A Study on Process Management Method of Offshore Plant Piping Material using Process Mining Technique </span>**  
-[[paper]][process_manage]  
-Junggoo Park, <U>Mingyu Kim</U>, Jichan Park  
-Journal of the Society of Naval Architecture of Korea (*Domestic*), Vol. 56(2), 2019
-
-**<span style="font-family:Raleway; font-size:1.2em;">  A Study on the Installation Readiness Management Method of Offshore Plant using CAD Information </span>**  
-[[paper]][cad_info]  
-Junggoo Park, Hojung Kim, <U>Mingyu Kim</U>, Jichan Park  
-Journal of the Society of Naval Architecture of Korea (*Domestic*), Vol. 56(2), 2019  
-
-**<span style="font-family:Raleway; font-size:1.2em;">  A Study on the Utilization Strategy of Social Commerce in Small Restaurants </span>**  
-[[paper]][restaurant]  
-Sungseok Ko, <U>Mingyu Kim</U>, Yungjin Yoo, Seoksul Kim  
-Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*), Vol. 35(1), 2012
-
-
 <br/>
 <br/>  
 
@@ -119,6 +98,33 @@ CV4Animals Workshop in Computer Vision and Pattern Recognition Conference (CVPR)
 [[paper]][npwsa_workshop][[code]][npwsa_code]  
 <U>Mingyu Kim</U>, Kyeong Ryeol Go and Se-Young Yun  
 5th Meta-learn Workshop in Neural Information Processing Systems (NeurIPS) 2021, Virtual  
+
+<br/>
+<br/>  
+
+
+## Domestic Journal Publications (**Peer reviewed**)
+<hr>
+**<span style="font-family:Raleway; font-size:1.2em;">  Optimization of Quantity Allocation using Integer Linear Programming in Shipbuilding Industry </span>**  
+[[paper]][optim_allo]  
+Junggoo Park, <U>Mingyu Kim</U>   
+Journal of the Society of Naval Architecture of Korea (*Domestic*), Vol. 57(1), 2020
+
+**<span style="font-family:Raleway; font-size:1.2em;">  A Study on Process Management Method of Offshore Plant Piping Material using Process Mining Technique </span>**  
+[[paper]][process_manage]  
+Junggoo Park, <U>Mingyu Kim</U>, Jichan Park  
+Journal of the Society of Naval Architecture of Korea (*Domestic*), Vol. 56(2), 2019
+
+**<span style="font-family:Raleway; font-size:1.2em;">  A Study on the Installation Readiness Management Method of Offshore Plant using CAD Information </span>**  
+[[paper]][cad_info]  
+Junggoo Park, Hojung Kim, <U>Mingyu Kim</U>, Jichan Park  
+Journal of the Society of Naval Architecture of Korea (*Domestic*), Vol. 56(2), 2019  
+
+**<span style="font-family:Raleway; font-size:1.2em;">  A Study on the Utilization Strategy of Social Commerce in Small Restaurants </span>**  
+[[paper]][restaurant]  
+Sungseok Ko, <U>Mingyu Kim</U>, Yungjin Yoo, Seoksul Kim  
+Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*), Vol. 35(1), 2012
+
 
 <br/>
 <br/>  
