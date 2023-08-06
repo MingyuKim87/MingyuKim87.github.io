@@ -30,7 +30,7 @@ Email : callingu [at] kaist.ac.kr
 <hr>
 
 [2021] 2nd Winner in Student track at [Machine Learning for Combinatorial Optimization Challenge (ML4CO)][ML4CO] in NeurIPS2021 (Team : *KAIST_OSI*, Team leader).  
-[2016] Outstanding Project for Increasing Productivity at Samsung Heavy Industires.    
+[2016] Outstanding Project aimed at Increasing Productivity at Samsung Heavy Industires.    
   
 
 <br/>
