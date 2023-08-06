@@ -17,6 +17,7 @@ Email : callingu [at] kaist.ac.kr
 ## Research experience
 <hr>
 
+[2021~] AI Advisor at [Actnova].  
 [2023] Research Intern at NAVER Cloud AI Lab.  
 [2014~2019] Research engineer at Samsung Heavy Industries  
 
@@ -142,6 +143,7 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [seyoung-yun]: http://osi.kaist.ac.kr/professor/
 [hyun-chung]: http://psel.cnu.ac.kr/mdps_team/dr-hyun-chung/
 [CV]: https://drive.google.com/file/d/1VJ0LCn13SUGpw4xse1hWYFHA5f1wVVtt/view?usp=sharing
+[Actnova]: https://actnova.io/  
 [ML4CO]: https://www.ecole.ai/2021/ml4co-competition/
 [npwsa]: https://openreview.net/pdf?id=JPkQwEdYn8
 [npwsa_workshop]: https://openreview.net/forum?id=URep0STGewu&referrer=[the%20profile%20of%20Mingyu%20Kim]
