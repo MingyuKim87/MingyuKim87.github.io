@@ -54,7 +54,7 @@ Email : callingu [at] kaist.ac.kr
 **<span style="font-family:Raleway; font-size:1.2em;">PolarGAN: Creating Realistic Arctic Sea Ice Concentration Images with User-Defined Geometric Preferences</span>**  
 [[paper]][polarGan]  
 <U>Mingyu Kim</U>, Jaekyeong Lee, Leechan Choi and Minjoo Choi  
-Engineering Applications of Artificial Intelligence, 2023  
+Engineering Applications of Artificial Intelligence, Vol. 126, 2023  
 
 
 **<span style="font-family:Raleway; font-size:1.2em;">The StarCraft Multi-Agent Exploration Challenges : Learning Multi-Stage Tasks and Environmental Factors without Precise Reward Functions</span>**  
