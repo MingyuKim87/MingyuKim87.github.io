@@ -145,7 +145,7 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [CV]: https://drive.google.com/file/d/1VJ0LCn13SUGpw4xse1hWYFHA5f1wVVtt/view?usp=sharing
 [Actnova]: https://actnova.io/  
 [ML4CO]: https://www.ecole.ai/2021/ml4co-competition/
-[polarGan]: https://openreview.net/pdf?id=JPkQwEdYn8](https://www.sciencedirect.com/science/article/abs/pii/S0952197623011041?via%3Dihub)  
+[polarGan]: https://www.sciencedirect.com/science/article/abs/pii/S0952197623011041?via%3Dihub
 [npwsa]: https://openreview.net/pdf?id=JPkQwEdYn8
 [npwsa_workshop]: https://openreview.net/forum?id=URep0STGewu&referrer=[the%20profile%20of%20Mingyu%20Kim]
 [smac_exp]: https://ieeexplore.ieee.org/document/10099458  
