@@ -18,7 +18,7 @@ Email : callingu [at] kaist.ac.kr
 <hr>
 
 [2021~] AI Advisor at [Actnova].  
-[2023~] Visiting PhD Student at DTU Congnitive System hosted by Prof. Søren Hauberg.  
+[2023~] Visiting PhD Student at DTU Congnitive System hosted by Prof. [Søren Hauberg][soren].  
 [2023] Research Intern at NAVER Cloud AI Lab.  
 [2014~2019] Research engineer at Samsung Heavy Industries  
 
@@ -143,6 +143,7 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 
 [seyoung-yun]: http://osi.kaist.ac.kr/professor/
 [hyun-chung]: http://psel.cnu.ac.kr/mdps_team/dr-hyun-chung/
+[soren]: http://www2.compute.dtu.dk/~sohau/
 [CV]: https://drive.google.com/file/d/1VJ0LCn13SUGpw4xse1hWYFHA5f1wVVtt/view?usp=sharing
 [Actnova]: https://actnova.io/  
 [ML4CO]: https://www.ecole.ai/2021/ml4co-competition/
