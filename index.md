@@ -112,6 +112,7 @@ CV4Animals Workshop in Computer Vision and Pattern Recognition Conference (CVPR)
 
 ## Domestic Journal Publications (**Peer reviewed**)
 <hr>
+
 **<span style="font-family:Raleway; font-size:1.2em;"> Optimization of Quantity Allocation using Integer Linear Programming in Shipbuilding Industry </span>**  
 [[paper]][optim_allo]  
 Junggoo Park, <U>Mingyu Kim</U>   
