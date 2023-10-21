@@ -88,9 +88,9 @@ Journal of Marine Science and Technology, Vol. 19(4), 2014
 <hr>
 
 **<span style="font-family:Raleway; font-size:1.2em;">Refined Tensorial Radiance Field: Harnessing Coordinate-Based Networks for Novel View Synthesis from Sparse Inputs</span>**  
-[[paper]][smac_plus_workshop]  
+*To appear*  
 <U>Mingyu Kim</U>, Jun-Seong Kim, Se-Young Yun, Jin-Hwa Kim  
-Learning-Based Solutions for Inverse Problems Workshop in Neural Information Processing Systems (NeurIPS), Neworleans  
+Learning-Based Solutions for Inverse Problems Workshop in Neural Information Processing Systems (NeurIPS) 2023, New Orleans  
 
 **<span style="font-family:Raleway; font-size:1.2em;">The StarCraft Multi-Agent Challenges+ : Learning Multi-Stage Tasks and Environmental Factors without Precise Reward Functions</span>**  
 [[paper]][smac_plus_workshop][[code]][smac_exp_code][[projectpage]][smac_exp_project]  
@@ -112,7 +112,7 @@ CV4Animals Workshop in Computer Vision and Pattern Recognition Conference (CVPR)
 
 ## Domestic Journal Publications (**Peer reviewed**)
 <hr>
-**<span style="font-family:Raleway; font-size:1.2em;">  Optimization of Quantity Allocation using Integer Linear Programming in Shipbuilding Industry </span>**  
+**<span style="font-family:Raleway; font-size:1.2em;"> Optimization of Quantity Allocation using Integer Linear Programming in Shipbuilding Industry </span>**  
 [[paper]][optim_allo]  
 Junggoo Park, <U>Mingyu Kim</U>   
 Journal of the Society of Naval Architecture of Korea (*Domestic*), Vol. 57(1), 2020
