@@ -87,6 +87,11 @@ Journal of Marine Science and Technology, Vol. 19(4), 2014
 ## Workshop Publications (**Peer reviewed**)
 <hr>
 
+**<span style="font-family:Raleway; font-size:1.2em;">Refined Tensorial Radiance Field: Harnessing Coordinate-Based Networks for Novel View Synthesis from Sparse Inputs</span>**  
+[[paper]][smac_plus_workshop]  
+<U>Mingyu Kim</U>, Jun-Seong Kim, Se-Young Yun, Jin-Hwa Kim  
+Learning-Based Solutions for Inverse Problems Workshop in Neural Information Processing Systems (NeurIPS), Neworleans  
+
 **<span style="font-family:Raleway; font-size:1.2em;">The StarCraft Multi-Agent Challenges+ : Learning Multi-Stage Tasks and Environmental Factors without Precise Reward Functions</span>**  
 [[paper]][smac_plus_workshop][[code]][smac_exp_code][[projectpage]][smac_exp_project]  
 <U>Mingyu Kim*</U>, Jihwan Oh\*, Yongsik Lee, Joonkee Kim, SeongHwan Kim, Song Chong and Se-Young Yun  
