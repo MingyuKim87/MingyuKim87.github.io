@@ -18,7 +18,7 @@ Email : callingu [at] kaist.ac.kr
 <hr>
 
 [2021~] AI Advisor at [Actnova].  
-[2023~] Visiting PhD Student at DTU Congnitive System hosted by Prof. [Søren Hauberg][soren].  
+[2023] Visiting PhD Student at DTU Congnitive System hosted by Prof. [Søren Hauberg][soren].  
 [2023] Research Intern at NAVER Cloud AI Lab.  
 [2014~2019] Research engineer at Samsung Heavy Industries  
 
