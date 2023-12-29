@@ -88,7 +88,7 @@ Journal of Marine Science and Technology, Vol. 19(4), 2014
 <hr>
 
 **<span style="font-family:Raleway; font-size:1.2em;">Refined Tensorial Radiance Field: Harnessing Coordinate-Based Networks for Novel View Synthesis from Sparse Inputs</span>**  
-*To appear*  
+[[paper]][tensor_refine_workshop]    
 <U>Mingyu Kim</U>, Jun-Seong Kim, Se-Young Yun, Jin-Hwa Kim  
 Learning-Based Solutions for Inverse Problems Workshop in Neural Information Processing Systems (NeurIPS) 2023, New Orleans  
 
@@ -169,3 +169,4 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [restaurant]: https://www.koreascience.or.kr/article/JAKO201218553921111.view?orgId=anpor&hide=breadcrumb,journalinfo
 [npwsa_code]: https://github.com/MingyuKim87/NPwSA
 [npwsa_video]: https://iclr.cc/virtual/2022/poster/6815
+[tensor_refine_workshop]: https://openreview.net/forum?id=28zXoRIcZd&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2023%2FWorkshop%2FDeep_Inverse%2FAuthors%23your-submissions)
