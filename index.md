@@ -151,11 +151,10 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 <br/>
 <br/>  
 
-
 [seyoung-yun]: http://osi.kaist.ac.kr/professor/
 [hyun-chung]: http://psel.cnu.ac.kr/mdps_team/dr-hyun-chung/
 [soren]: http://www2.compute.dtu.dk/~sohau/
-[CV]: https://drive.google.com/file/d/1VJ0LCn13SUGpw4xse1hWYFHA5f1wVVtt/view?usp=sharing
+[CV]: https://drive.google.com/file/d/1mBMDBtEDO1AOqMiC-6biw7btgh_kkAKI/view?usp=sharing
 [Actnova]: https://actnova.io/  
 [ML4CO]: https://www.ecole.ai/2021/ml4co-competition/
 [polarGan]: https://www.sciencedirect.com/science/article/abs/pii/S0952197623011041?via%3Dihub
