@@ -41,10 +41,19 @@ Email : callingu [at] kaist.ac.kr
 ## Conference Publications (**Peer reviewed**)
 <hr>
 
+**<span style="font-family:Raleway; font-size:1.2em;"> Synergistic Integration of Coordinate Network and Tensorial Feature for Improving Neural Radiance Fields from Sparse Inputs </span>**  
+*To appear*  
+<U>Mingyu Kim</U>, Jun-Seong Kim, Se-Young Yun^* and Jin-Hwa Kim^*  
+* : Co-corresponding authors  
+International Conference on Machine Learning (ICML) 2024, Wien   
+
+<br/>
+<br/> 
+
 **<span style="font-family:Raleway; font-size:1.2em;"> Neural Processes with Stochastic Attention: Paying more attention to the context dataset </span>**  
 [[paper]][npwsa][[code]][npwsa_code][[video]][npwsa_video]  
 <U>Mingyu Kim</U>, Kyeong Ryeol Go and Se-Young Yun  
- International Conference on Learning Representations (ICLR) 2022, Virtual  
+International Conference on Learning Representations (ICLR) 2022, Virtual  
 
 <br/>
 <br/> 
