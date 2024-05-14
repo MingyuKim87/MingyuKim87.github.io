@@ -43,7 +43,7 @@ Email : callingu [at] kaist.ac.kr
 
 **<span style="font-family:Raleway; font-size:1.2em;"> Synergistic Integration of Coordinate Network and Tensorial Feature for Improving Neural Radiance Fields from Sparse Inputs </span>**  
 [[paper]][synergynerf][[code]][synergynerf_code][[projectpage]][synergynerf_project]  
-<U>Mingyu Kim</U>, Jun-Seong Kim, Se-Young Yun<sup>&#42;</sup> and Jin-Hwa Kim<sup>&#42;</sup> &nbsp; (&#42; : Co-corresponding authors)  
+<U>Mingyu Kim</U>, Jun-Seong Kim, Se-Young Yun<sup>†</sup> and Jin-Hwa Kim<sup>†</sup> &nbsp; (<sup>†</sup> : Co-corresponding authors)  
 International Conference on Machine Learning (ICML) 2024, Vienna   
 
 **<span style="font-family:Raleway; font-size:1.2em;"> Neural Processes with Stochastic Attention: Paying more attention to the context dataset </span>**  
