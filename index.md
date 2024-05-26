@@ -145,7 +145,7 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 ### Academic Services 
 <hr>
 
-[Conference Reviewer] NeurIPS2022, ICLR2023, CVPR2024  
+[Conference Reviewer] NeurIPS2022,2024 ICLR2023, CVPR2024  
 [Workshop Reviewer] MetaLearn in NeurIPS2021
 
 <br/>
