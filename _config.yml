@@ -14,7 +14,7 @@ sass:
 plainwhite:
   name: Mingyu Kim
   tagline: |
-    Postdoctoral Research Fellow
+    PostDoc.
     at UBC
   date_format: "%b %-d, %Y"
   sitemap: false # set to true to generate sitemap.xml content
