@@ -6,7 +6,7 @@ layout: page
 
 ## About me
 
-I’m an Postdoctoral Research Fellow at The University of British Columbia working with Prof. [Mi-Jung Park][mijung-park]. I received an Ph.D. in Artificial Intelligence from KAIST under the supervision of Prof. [Se-young Yun][seyoung-yun]. Prior to beginning of my PhD course, I worked as a research engineer at Samsung Heavy Industires. I recieved an M.S. in Ocean system engieerning from KAIST under the supervision of Prof. [Hyun Chung][hyun-chung] and B.S in Industrial engineering at Konkuk University. My research interests focus on neural fields, implicit neural representation, few-shot learning, differential privacy, generative models, bayesian models, multi-agent reinforcement learning and their applications. Here is my [CV].    
+I’m an Postdoctoral Research Fellow at The University of British Columbia(UBC) working with Prof. [Mi-Jung Park][mijung-park]. I received an Ph.D. in Artificial Intelligence from KAIST under the supervision of Prof. [Se-young Yun][seyoung-yun]. Prior to beginning of my PhD course, I worked as a research engineer at Samsung Heavy Industires. I recieved an M.S. in Ocean system engieerning from KAIST under the supervision of Prof. [Hyun Chung][hyun-chung] and B.S in Industrial engineering at Konkuk University. My research interests focus on neural fields, implicit neural representation, few-shot learning, differential privacy, generative models, bayesian models, multi-agent reinforcement learning and their applications. Here is my [CV].    
 
 ## Contact 
 
@@ -145,7 +145,7 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 ### Academic Services 
 <hr>
 
-[Conference Reviewer] NeurIPS{2022, 2024}, ICLR2023, CVPR2024  
+[Conference Reviewer] NeurIPS{2022, 2024}, ICLR2023, CVPR2024, AAAI2025    
 [Workshop Reviewer] MetaLearn in NeurIPS2021, GRaM in ICML2024
 
 <br/>
