@@ -6,11 +6,11 @@ layout: page
 
 ## About me
 
-I’m an PhD candidate in the Kim Jaechul Graduate School of AI at Korea Advanced Institute of Science and Technology (KAIST AI), advised by Prof. [Se-young Yun][seyoung-yun]. Prior to beginning of my PhD course, I worked as a research engineer at Samsung Heavy Industires. I recieved an M.S. in Ocean system engieerning from KAIST under the supervision of Prof. [Hyun Chung][hyun-chung] and B.S in Industrial engineering at Konkuk University. My research interests focus on meta-learning, bayesian models, implicit neural representation, neural rendering, multi-agent reinforcement learning and their applications. Here is my [CV].    
+I’m an Postdoctoral Research Fellow at The University of British Columbia working with Prof. [Mi-Jung Park][mijung-park]. I received an Ph.D. in Artificial Intelligence from KAIST under the supervision of Prof. [Se-young Yun][seyoung-yun]. Prior to beginning of my PhD course, I worked as a research engineer at Samsung Heavy Industires. I recieved an M.S. in Ocean system engieerning from KAIST under the supervision of Prof. [Hyun Chung][hyun-chung] and B.S in Industrial engineering at Konkuk University. My research interests focus on neural fields, implicit neural representation, few-shot learning, differential privacy, generative models, bayesian models, multi-agent reinforcement learning and their applications. Here is my [CV].    
 
 ## Contact 
 
-Email : callingu [at] kaist.ac.kr
+Email : mingyu.kim [at] ubc.ca  
 
 <br/>  
 
@@ -151,6 +151,7 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 <br/>
 <br/>  
 
+[mijung-park]: https://parklabml.github.io/  
 [seyoung-yun]: http://osi.kaist.ac.kr/professor/
 [hyun-chung]: http://psel.cnu.ac.kr/mdps_team/dr-hyun-chung/
 [soren]: http://www2.compute.dtu.dk/~sohau/
