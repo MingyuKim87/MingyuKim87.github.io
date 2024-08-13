@@ -1,6 +1,6 @@
 title: MingyuKim
 author: MingyuKim
-email: callingu@kaist.ac.kr
+email: mingyu.kim@ubc.ca
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -14,8 +14,8 @@ sass:
 plainwhite:
   name: Mingyu Kim
   tagline: |
-    PhD candidate
-    at KAIST AI
+    Postdoctoral Research Fellow
+    at UBC
   date_format: "%b %-d, %Y"
   sitemap: false # set to true to generate sitemap.xml content
   search: false # set to true to enable searchbar
