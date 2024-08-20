@@ -10,7 +10,7 @@ I’m an Postdoctoral Research Fellow at The University of British Columbia (UBC
 
 ## Contact 
 
-Email : mgyukim [at] mail.ubc.ca  
+Email : mgyu.kim [at] ubc.ca  
 
 <br/>  
 
