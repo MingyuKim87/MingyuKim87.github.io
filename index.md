@@ -58,7 +58,7 @@ International Conference on Learning Representations (ICLR) 2022, Virtual
 <hr>
 
 **<span style="font-family:Raleway; font-size:1.2em;">Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices and Large Scale Environments</span>**    
-Jun-Seong Kim\*, <U>Mingyu Kim\*</U>, Geon-U Kim, Tae-Hyun Oh<sup>†</sup> and Jin-Hwa Kim<sup>†</sup> &nbsp; (\* : Co-first authors, &nbsp; <sup>†</sup> : Co-corresponding authors)     
+Jun-Seong Kim\*, <U>Mingyu Kim</U>\*, Geon-U Kim, Tae-Hyun Oh<sup>†</sup> and Jin-Hwa Kim<sup>†</sup> &nbsp; (\* : Co-first authors, &nbsp; <sup>†</sup> : Co-corresponding authors)     
 IEEE Robotics and Automation Letters, *To Appear*  
   
 
@@ -70,7 +70,7 @@ Engineering Applications of Artificial Intelligence, Vol. 126, 2023
 
 **<span style="font-family:Raleway; font-size:1.2em;">The StarCraft Multi-Agent Exploration Challenges : Learning Multi-Stage Tasks and Environmental Factors without Precise Reward Functions</span>**  
 [[paper]][smac_exp][[code]][smac_exp_code][[projectpage]][smac_exp_project]  
-<U>Mingyu Kim*</U>, Jihwan Oh\*, Yongsik Lee, Joonkee Kim, SeongHwan Kim, Song Chong and Se-Young Yun  
+<U>Mingyu Kim</U>\*, Jihwan Oh\*, Yongsik Lee, Joonkee Kim, SeongHwan Kim, Song Chong and Se-Young Yun  
 IEEE Access, Vol. 11, 2023  
 
 
