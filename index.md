@@ -57,6 +57,10 @@ International Conference on Learning Representations (ICLR) 2022, Virtual
 ## Journal Publications (**Peer reviewed**)
 <hr>
 
+**<span style="font-family:Raleway; font-size:1.2em;">Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices and Large Scale Environments</span>**    
+Jun-Seong Kim\*, <U>Mingyu Kim\*</U>, Geon-U Kim, Tae-Hyun Oh and Jin-Hwa Kim  
+IEEE Robotics and Automation Letters, *To Appear*  
+
 **<span style="font-family:Raleway; font-size:1.2em;">PolarGAN: Creating Realistic Arctic Sea Ice Concentration Images with User-Defined Geometric Preferences</span>**  
 [[paper]][polarGan]  
 <U>Mingyu Kim</U>, Jaekyeong Lee, Leechan Choi and Minjoo Choi  
@@ -151,11 +155,13 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 <br/>
 <br/>  
 
+https://drive.google.com/file/d/10NYtdGjSbVM6AdRwH0ksv2ijN_g1MA8N/view?usp=sharing 
+
 [mijung-park]: https://parklabml.github.io/  
 [seyoung-yun]: http://osi.kaist.ac.kr/professor/
 [hyun-chung]: http://psel.cnu.ac.kr/mdps_team/dr-hyun-chung/
 [soren]: http://www2.compute.dtu.dk/~sohau/
-[CV]: https://drive.google.com/file/d/11WLss07vLPdvF1ANdujg0rRPgR7GHpjn/view?usp=share_link  
+[CV]: https://drive.google.com/file/d/10NYtdGjSbVM6AdRwH0ksv2ijN_g1MA8N/view?usp=sharing  
 [Actnova]: https://actnova.io/  
 [synergynerf]: https://arxiv.org/abs/2405.07857  
 [synergynerf_code]: https://github.com/MingyuKim87/SynergyNeRF  
