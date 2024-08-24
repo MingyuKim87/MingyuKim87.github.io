@@ -58,7 +58,7 @@ International Conference on Learning Representations (ICLR) 2022, Virtual
 <hr>
 
 **<span style="font-family:Raleway; font-size:1.2em;">Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices and Large Scale Environments</span>**    
-Jun-Seong Kim\*, <U>Mingyu Kim\*</U>, Geon-U Kim, Tae-Hyun Oh and Jin-Hwa Kim  
+Jun-Seong Kim<sup>*</sup>, <U>Mingyu Kim<sup>*</sup></U>, Geon-U Kim, Tae-Hyun Oh<sup>†</sup> and Jin-Hwa Kim<sup>†</sup>  
 IEEE Robotics and Automation Letters, *To Appear*  
 
 **<span style="font-family:Raleway; font-size:1.2em;">PolarGAN: Creating Realistic Arctic Sea Ice Concentration Images with User-Defined Geometric Preferences</span>**  
@@ -98,7 +98,7 @@ Journal of Marine Science and Technology, Vol. 19(4), 2014
 
 **<span style="font-family:Raleway; font-size:1.2em;">Refined Tensorial Radiance Field: Harnessing Coordinate-Based Networks for Novel View Synthesis from Sparse Inputs</span>**  
 [[paper]][tensor_refine_workshop]    
-<U>Mingyu Kim</U>, Jun-Seong Kim, Se-Young Yun, Jin-Hwa Kim  
+<U>Mingyu Kim</U>, Jun-Seong Kim, Se-Young Yun<sup>†</sup>, Jin-Hwa Kim<sup>†</sup>  
 Learning-Based Solutions for Inverse Problems Workshop in Neural Information Processing Systems (NeurIPS) 2023, New Orleans  
 
 **<span style="font-family:Raleway; font-size:1.2em;">The StarCraft Multi-Agent Challenges+ : Learning Multi-Stage Tasks and Environmental Factors without Precise Reward Functions</span>**  
