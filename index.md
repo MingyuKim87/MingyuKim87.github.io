@@ -58,9 +58,9 @@ International Conference on Learning Representations (ICLR) 2022, Virtual
 <hr>
 
 **<span style="font-family:Raleway; font-size:1.2em;">Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices and Large Scale Environments</span>**    
-Jun-Seong Kim*, <U>Mingyu Kim*</U>, Geon-U Kim, Tae-Hyun Oh<sup>†</sup> and Jin-Hwa Kim<sup>†</sup>  
+Jun-Seong Kim*, <U>Mingyu Kim*</U>, Geon-U Kim, Tae-Hyun Oh<sup>†</sup> and Jin-Hwa Kim<sup>†</sup> &nbsp; (* : Co-first authors, &nbsp; <sup>†</sup> : Co-corresponding authors)     
 IEEE Robotics and Automation Letters, *To Appear*  
-*(Co-first authors)*  
+  
 
 **<span style="font-family:Raleway; font-size:1.2em;">PolarGAN: Creating Realistic Arctic Sea Ice Concentration Images with User-Defined Geometric Preferences</span>**  
 [[paper]][polarGan]  
