@@ -156,8 +156,6 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 <br/>
 <br/>  
 
-https://drive.google.com/file/d/10NYtdGjSbVM6AdRwH0ksv2ijN_g1MA8N/view?usp=sharing 
-
 [mijung-park]: https://parklabml.github.io/  
 [seyoung-yun]: http://osi.kaist.ac.kr/professor/
 [hyun-chung]: http://psel.cnu.ac.kr/mdps_team/dr-hyun-chung/
