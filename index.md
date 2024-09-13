@@ -58,9 +58,9 @@ International Conference on Learning Representations (ICLR) 2022, Virtual
 <hr>
 
 **<span style="font-family:Raleway; font-size:1.2em;">Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices and Large Scale Environments</span>**    
-[[projectpage]][facthash_project]  
+[[paper]][facthash_paper][[projectpage]][facthash_project]  
 Jun-Seong Kim\*, <U>Mingyu Kim</U>\*, Geon-U Kim, Tae-Hyun Oh<sup>†</sup> and Jin-Hwa Kim<sup>†</sup> &nbsp; (\* : Co-first authors, &nbsp; <sup>†</sup> : Co-corresponding authors)     
-IEEE Robotics and Automation Letters, 2024 (*To Appear*)  
+IEEE Robotics and Automation Letters, 2024   
   
 
 **<span style="font-family:Raleway; font-size:1.2em;">PolarGAN: Creating Realistic Arctic Sea Ice Concentration Images with User-Defined Geometric Preferences</span>**  
@@ -166,6 +166,7 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [synergynerf]: https://arxiv.org/abs/2405.07857  
 [synergynerf_code]: https://github.com/MingyuKim87/SynergyNeRF  
 [synergynerf_project]: https://mingyukim87.github.io/SynergyNeRF  
+[facthash_paper]: https://ieeexplore.ieee.org/document/10679894  
 [facthash_project]: https://facthash.github.io  
 [ML4CO]: https://www.ecole.ai/2021/ml4co-competition/
 [polarGan]: https://www.sciencedirect.com/science/article/abs/pii/S0952197623011041?via%3Dihub
