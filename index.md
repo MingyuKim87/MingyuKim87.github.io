@@ -151,7 +151,7 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 ### Academic Services 
 <hr>
 
-[Conference Reviewer] NeurIPS{2022, 2024}, ICLR{2023, 2025}, CVPR2024, AAAI2025    
+[Conference Reviewer] NeurIPS{2022, 2024}, ICLR{2023, 2025}, CVPR2024, AAAI2025, AISTATS2025    
 [Workshop Reviewer] MetaLearn in NeurIPS2021, GRaM in ICML2024
 
 <br/>
