@@ -152,7 +152,8 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 <hr>
 
 [Conference Reviewer] NeurIPS{2022, 2024}, ICLR{2023, 2025}, CVPR2024, AAAI2025, AISTATS2025    
-[Workshop Reviewer] MetaLearn in NeurIPS2021, GRaM in ICML2024
+[Workshop Reviewer] MetaLearn in NeurIPS2021, GRaM in ICML2024  
+[PhD Application Reviewer] [ELLIS-PhD][ellis] Program 2024  
 
 <br/>
 <br/>  
@@ -185,4 +186,5 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [restaurant]: https://www.koreascience.or.kr/article/JAKO201218553921111.view?orgId=anpor&hide=breadcrumb,journalinfo
 [npwsa_code]: https://github.com/MingyuKim87/NPwSA
 [npwsa_video]: https://iclr.cc/virtual/2022/poster/6815
-[tensor_refine_workshop]: https://openreview.net/forum?id=28zXoRIcZd&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2023%2FWorkshop%2FDeep_Inverse%2FAuthors%23your-submissions)
+[tensor_refine_workshop]: https://openreview.net/forum?id=28zXoRIcZd&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2023%2FWorkshop%2FDeep_Inverse%2FAuthors%23your-submissions)  
+[ellis]: https://ellis.eu/phd-postdoc  
