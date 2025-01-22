@@ -41,6 +41,11 @@ Email : mgyu.kim [at] ubc.ca
 ## Conference Publications (**Peer reviewed**)
 <hr>
 
+**<span style="font-family:Raleway; font-size:1.2em;"> Bayesian Principles Improve Prompt Learning In Vision-Language Models </span>**  
+*To Appear*  
+<U>Mingyu Kim</U>\*, Jongwoo Ko and Mi-Jung Park    
+Artificial Intelligence and Statistics 2025 (AISTATS) 2025, Mai Khao     
+
 **<span style="font-family:Raleway; font-size:1.2em;"> Synergistic Integration of Coordinate Network and Tensorial Feature for Improving Neural Radiance Fields from Sparse Inputs </span>**  
 [[paper]][synergynerf][[code]][synergynerf_code][[projectpage]][synergynerf_project]  
 <U>Mingyu Kim</U>, Jun-Seong Kim, Se-Young Yun<sup>†</sup> and Jin-Hwa Kim<sup>†</sup> &nbsp; (<sup>†</sup> : Co-corresponding authors)  
