@@ -167,7 +167,7 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [seyoung-yun]: http://osi.kaist.ac.kr/professor/
 [hyun-chung]: http://psel.cnu.ac.kr/mdps_team/dr-hyun-chung/
 [soren]: http://www2.compute.dtu.dk/~sohau/
-[CV]: https://drive.google.com/file/d/18mEBplgxOUVmt3aByUrr8CRCaQla8IQG/view?usp=share_link    
+[CV]: https://drive.google.com/file/d/1Y2X4n8VWm-vZRh2LDsLECq_UK6Lh0Kez/view?usp=sharing   
 [Actnova]: https://actnova.io/  
 [synergynerf]: https://arxiv.org/abs/2405.07857  
 [synergynerf_code]: https://github.com/MingyuKim87/SynergyNeRF  
