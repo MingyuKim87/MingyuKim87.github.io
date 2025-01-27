@@ -46,6 +46,12 @@ Email : mgyu.kim [at] ubc.ca
 <U>Mingyu Kim</U>\*, Jongwoo Ko\* and Mi-Jung Park    
 International Conference on Artificial Intelligence and Statistics (AISTATS) 2025, Mai Khao     
 
+**<span style="font-family:Raleway; font-size:1.2em;">Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices and Large Scale Environments</span>**    
+[[paper]][facthash_paper][[projectpage]][facthash_project]  
+Jun-Seong Kim\*, <U>Mingyu Kim</U>\*, Geon-U Kim, Tae-Hyun Oh<sup>†</sup> and Jin-Hwa Kim<sup>†</sup> &nbsp; (\* : Co-first authors, &nbsp; <sup>†</sup> : Co-corresponding authors)     
+International Conference on Robotics & Automation (ICRA), 2025, Atlanta  
+IEEE Robotics and Automation Letters, 2024   
+
 **<span style="font-family:Raleway; font-size:1.2em;"> Synergistic Integration of Coordinate Network and Tensorial Feature for Improving Neural Radiance Fields from Sparse Inputs </span>**  
 [[paper]][synergynerf][[code]][synergynerf_code][[projectpage]][synergynerf_project]  
 <U>Mingyu Kim</U>, Jun-Seong Kim, Se-Young Yun<sup>†</sup> and Jin-Hwa Kim<sup>†</sup> &nbsp; (<sup>†</sup> : Co-corresponding authors)  
@@ -61,12 +67,6 @@ International Conference on Learning Representations (ICLR) 2022, Virtual
 
 ## Journal Publications (**Peer reviewed**)
 <hr>
-
-**<span style="font-family:Raleway; font-size:1.2em;">Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices and Large Scale Environments</span>**    
-[[paper]][facthash_paper][[projectpage]][facthash_project]  
-Jun-Seong Kim\*, <U>Mingyu Kim</U>\*, Geon-U Kim, Tae-Hyun Oh<sup>†</sup> and Jin-Hwa Kim<sup>†</sup> &nbsp; (\* : Co-first authors, &nbsp; <sup>†</sup> : Co-corresponding authors)     
-IEEE Robotics and Automation Letters, 2024   
-  
 
 **<span style="font-family:Raleway; font-size:1.2em;">PolarGAN: Creating Realistic Arctic Sea Ice Concentration Images with User-Defined Geometric Preferences</span>**  
 [[paper]][polarGan]  
