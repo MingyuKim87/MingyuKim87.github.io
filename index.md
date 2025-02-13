@@ -163,7 +163,7 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 <br/>
 <br/>  
 
-[youngheon-kim] : https://personal.math.ubc.ca/~yhkim/     
+[youngheon-kim]: https://personal.math.ubc.ca/~yhkim/     
 [mijung-park]: https://www.cs.ubc.ca/~mijungp/   
 [seyoung-yun]: http://osi.kaist.ac.kr/professor/
 [hyun-chung]: http://psel.cnu.ac.kr/mdps_team/dr-hyun-chung/
