@@ -105,7 +105,7 @@ Journal of Marine Science and Technology, Vol. 19(4), 2014
 
 **<span style="font-family:Raleway; font-size:1.2em;">Training-Free Safe Denoisers For Safe Use of Diffusion Models</span>**  
 [[paper]][safe_denoiser_workshop]    
-<U>Mingyu Kim</U>\*, Dongjun Kim\*, Amman Yusuf, Stefano Ermon, Mi Jung Park  
+<U>Mingyu Kim</U>\*, Dongjun Kim\*, Amman Yusuf, Stefano Ermon and Mi Jung Park  
 SynthData Workshop in International Conference on Learning Representations (ICLR) 2025, Singapore    
 
 **<span style="font-family:Raleway; font-size:1.2em;">Refined Tensorial Radiance Field: Harnessing Coordinate-Based Networks for Novel View Synthesis from Sparse Inputs</span>**  
