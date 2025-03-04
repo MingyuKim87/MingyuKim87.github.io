@@ -103,6 +103,11 @@ Journal of Marine Science and Technology, Vol. 19(4), 2014
 ## Workshop Publications (**Peer reviewed**)
 <hr>
 
+**<span style="font-family:Raleway; font-size:1.2em;">Training-Free Safe Denoisers For Safe Use of Diffusion Models</span>**  
+[[paper]][safe_denoiser_workshop]    
+<U>Mingyu Kim</U>\*, Dongjun Kim\*, Amman Yusuf, Stefano Ermon, Mi Jung Park  
+SynthData Workshop in International Conference on Learning Representations (ICLR) 2025, Singapore    
+
 **<span style="font-family:Raleway; font-size:1.2em;">Refined Tensorial Radiance Field: Harnessing Coordinate-Based Networks for Novel View Synthesis from Sparse Inputs</span>**  
 [[paper]][tensor_refine_workshop]    
 <U>Mingyu Kim</U>, Jun-Seong Kim, Se-Young Yun<sup>†</sup>, Jin-Hwa Kim<sup>†</sup>  
@@ -193,4 +198,5 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [npwsa_code]: https://github.com/MingyuKim87/NPwSA
 [npwsa_video]: https://iclr.cc/virtual/2022/poster/6815
 [tensor_refine_workshop]: https://openreview.net/forum?id=28zXoRIcZd&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2023%2FWorkshop%2FDeep_Inverse%2FAuthors%23your-submissions)  
+[safe_denoiser_workshop]: https://www.arxiv.org/abs/2502.08011
 [ellis]: https://ellis.eu/phd-postdoc  
