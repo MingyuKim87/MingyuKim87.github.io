@@ -175,6 +175,7 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [soren]: http://www2.compute.dtu.dk/~sohau/
 [CV]: https://drive.google.com/file/d/1ctTab206ExkwEHOT18unMjCW5Ba8_ySE/view?usp=sharing       
 [Actnova]: https://actnova.io/  
+[BP_CLIP]: https://openreview.net/forum?id=o4v4Og831q     
 [synergynerf]: https://arxiv.org/abs/2405.07857  
 [synergynerf_code]: https://github.com/MingyuKim87/SynergyNeRF  
 [synergynerf_project]: https://mingyukim87.github.io/SynergyNeRF  
@@ -198,5 +199,5 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [npwsa_code]: https://github.com/MingyuKim87/NPwSA
 [npwsa_video]: https://iclr.cc/virtual/2022/poster/6815
 [tensor_refine_workshop]: https://openreview.net/forum?id=28zXoRIcZd&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2023%2FWorkshop%2FDeep_Inverse%2FAuthors%23your-submissions)  
-[safe_denoiser_workshop]: https://www.arxiv.org/abs/2502.08011
+[safe_denoiser_workshop]: https://openreview.net/forum?id=R9lU8ZeJjS     
 [ellis]: https://ellis.eu/phd-postdoc  
