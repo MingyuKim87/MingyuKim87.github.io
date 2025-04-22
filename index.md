@@ -30,7 +30,7 @@ Email : mgyu.kim [at] ubc.ca
 ## Awards
 <hr>
 
-[2025] Best Reviewer at [AISTATS2025][AISTATS2025_review] in NeurIPS2021.     
+[2025] Best Reviewer at [AISTATS2025][AISTATS2025_review].     
 [2021] 2nd Winner in Student track at [Machine Learning for Combinatorial Optimization Challenge (ML4CO)][ML4CO] in NeurIPS2021 (Team : *KAIST_OSI*, Team leader).  
 [2016] Outstanding Project aimed at Increasing Productivity at Samsung Heavy Industires.    
   
