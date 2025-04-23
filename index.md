@@ -14,7 +14,7 @@ Email : mgyu.kim [at] ubc.ca
 
 <br/>  
 
-## Research experience
+## Research Experience
 <hr>
 
 [2024-] Postdoctoral Research Fellow at [UBC CS][ubccs].      
