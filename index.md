@@ -20,8 +20,8 @@ Email : mgyu.kim [at] ubc.ca
 [2024~] Postdoctoral Research Fellow at UBC CS.      
 [2023] Visiting PhD Student at DTU Congnitive System hosted by Prof. [Søren Hauberg][soren].  
 [2023] Research Intern at NAVER Cloud AI Lab.  
-`[2014~2019] Research engineer at Samsung Heavy Industries`    
-`[2021~2024] AI Advisor at [Actnova]`    
+<span>[2014~2019] Research engineer at Samsung Heavy Industries</span>  
+<span>[2021~2024] AI Advisor at [Actnova]</span>
 
 
 <br/>
