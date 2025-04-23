@@ -177,7 +177,7 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [soren]: http://www2.compute.dtu.dk/~sohau/
 [CV]: https://drive.google.com/file/d/164FNUFONH7RjcN_z4Qy2yJLzrFuBtqws/view?usp=sharing        
 [Actnova]: https://actnova.io/  
-[BP_CLIP]: https://openreview.net/forum?id=o4v4Og831q     
+[BP_CLIP]: https://arxiv.org/abs/2504.14123         
 [synergynerf]: https://arxiv.org/abs/2405.07857  
 [synergynerf_code]: https://github.com/MingyuKim87/SynergyNeRF  
 [synergynerf_project]: https://mingyukim87.github.io/SynergyNeRF  
