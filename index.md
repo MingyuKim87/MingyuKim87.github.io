@@ -19,7 +19,7 @@ Email : mgyu.kim [at] ubc.ca
 
 [2024-] Postdoctoral Research Fellow at [UBC CS][ubccs].      
 [2023] Visiting PhD Student at DTU Congnitive System hosted by Prof. [Søren Hauberg][soren].  
-[2023] Research Intern at NAVER Cloud AI Lab.  
+[2023] Research Intern at [NAVER Cloud AI Lab][naverai].  
 [2014-2019] Research engineer at Samsung Heavy Industries.      
 [2021-2024] AI Advisor at [Actnova]    
 
@@ -205,3 +205,4 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [ellis]: https://ellis.eu/phd-postdoc  
 [AISTATS2025_review]: https://aistats.org/aistats2025/awards.html   
 [ubccs]: https://www.cs.ubc.ca/people/mingyu-kim      
+[naverai]: https://naver-career.gitbook.io/en/positions/ai-ml/generation-research     
