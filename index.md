@@ -17,7 +17,7 @@ Email : mgyu.kim [at] ubc.ca
 ## Research experience
 <hr>
 
-[2024-] Postdoctoral Research Fellow at UBC CS.      
+[2024-] Postdoctoral Research Fellow at [UBC CS][ubccs].      
 [2023] Visiting PhD Student at DTU Congnitive System hosted by Prof. [Søren Hauberg][soren].  
 [2023] Research Intern at NAVER Cloud AI Lab.  
 [2014-2019] Research engineer at Samsung Heavy Industries.      
@@ -204,3 +204,4 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [safe_denoiser_workshop]: https://openreview.net/forum?id=R9lU8ZeJjS     
 [ellis]: https://ellis.eu/phd-postdoc  
 [AISTATS2025_review]: https://aistats.org/aistats2025/awards.html   
+[ubccs]: https://www.cs.ubc.ca/people/mingyu-kim      
