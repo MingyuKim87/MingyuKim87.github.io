@@ -44,7 +44,7 @@ Email : mgyu.kim [at] ubc.ca
 <hr>
 
 **<span style="font-family:Raleway; font-size:1.2em;"> Bayesian Principles Improve Prompt Learning In Vision-Language Models </span>**  
-[[paper]][BP_CLIP]    
+[[paper]][BP_CLIP][[code]][bpclip_code]        
 <U>Mingyu Kim</U>\*, Jongwoo Ko\* and Mi-Jung Park    
 International Conference on Artificial Intelligence and Statistics (AISTATS) 2025, Mai Khao     
 
@@ -177,7 +177,8 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [soren]: http://www2.compute.dtu.dk/~sohau/
 [CV]: https://drive.google.com/file/d/13tWKjmDb55HC7fq76nkKX0_M7H5vmMUO/view?usp=sharing        
 [Actnova]: https://actnova.io/  
-[BP_CLIP]: https://arxiv.org/abs/2504.14123         
+[BP_CLIP]: https://arxiv.org/abs/2504.14123
+[bpclip_code]: https://github.com/MingyuKim87/BP_CLIP      
 [synergynerf]: https://arxiv.org/abs/2405.07857  
 [synergynerf_code]: https://github.com/MingyuKim87/SynergyNeRF  
 [synergynerf_project]: https://mingyukim87.github.io/SynergyNeRF  
