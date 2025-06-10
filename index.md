@@ -105,6 +105,11 @@ Journal of Marine Science and Technology, Vol. 19(4), 2014
 ## Workshop Publications (**Peer reviewed**)
 <hr>
 
+**<span style="font-family:Raleway; font-size:1.2em;">SteeringTTA: Guiding Diffusion Trajectories for Robust Test-Time-Adaptation</span>**  
+*To Appear*       
+Jihyun Yu, Yoojin Oh,, Wonho Bae, <U>Mingyu Kim</U><sup>†</sup>, and Junhyug Noh<sup>†</sup> (<sup>†</sup> : Corresponding authors) 
+Putting Updates to the Test Workshop in International Conference on Machine Learning (ICML) 2025, Vancouver        
+
 **<span style="font-family:Raleway; font-size:1.2em;">Training-Free Safe Denoisers For Safe Use of Diffusion Models</span>**  
 [[paper]][safe_denoiser_workshop]    
 <U>Mingyu Kim</U>\*, Dongjun Kim\*, Amman Yusuf, Stefano Ermon and Mi Jung Park  
