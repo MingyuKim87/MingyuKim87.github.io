@@ -208,7 +208,7 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [npwsa_video]: https://iclr.cc/virtual/2022/poster/6815
 [tensor_refine_workshop]: https://openreview.net/forum?id=28zXoRIcZd&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2023%2FWorkshop%2FDeep_Inverse%2FAuthors%23your-submissions)  
 [safe_denoiser_workshop]: https://openreview.net/forum?id=R9lU8ZeJjS    
-[steertta_workshop] : https://openreview.net/forum?id=iV0WBCDGcx    
+[steertta_workshop]: https://openreview.net/forum?id=iV0WBCDGcx    
 [ellis]: https://ellis.eu/phd-postdoc  
 [AISTATS2025_review]: https://aistats.org/aistats2025/awards.html   
 [ubccs]: https://www.cs.ubc.ca/people/mingyu-kim      
