@@ -6,7 +6,7 @@ layout: page
 
 ## About me
 
-I’m an Postdoctoral Research Fellow at The University of British Columbia (UBC) working with Prof. [Mi-Jung Park][mijung-park] and [Young-Heon Kim][youngheon-kim]. I received an Ph.D. in Artificial Intelligence from KAIST under the supervision of Prof. [Se-Young Yun][seyoung-yun]. Prior to beginning of my PhD course, I worked as a research engineer at Samsung Heavy Industires. I recieved an M.S. in Ocean system engieerning from KAIST under the supervision of Prof. [Hyun Chung][hyun-chung] and B.S in Industrial engineering at Konkuk University. My research interests focus on (safe) generative models, probabilistic models, few-shot learning, multi-modal models, optimal transport, neural fields, implicit neural representation, multi-agent reinforcement learning and their applications. Here is my [CV].    
+I’m an CIFAR AI Satefy Postdoc Fellow at The University of British Columbia (UBC) working with Prof. [Mi-Jung Park][mijung-park] and [Young-Heon Kim][youngheon-kim]. I received an Ph.D. in Artificial Intelligence from KAIST under the supervision of Prof. [Se-Young Yun][seyoung-yun]. Prior to beginning of my PhD course, I worked as a research engineer at Samsung Heavy Industires. I recieved an M.S. in Ocean system engieerning from KAIST under the supervision of Prof. [Hyun Chung][hyun-chung] and B.S in Industrial engineering at Konkuk University. My research interests focus on (safe) generative models, probabilistic models, few-shot learning, multi-modal models, optimal transport, neural fields, implicit neural representation, multi-agent reinforcement learning and their applications. Here is my [CV].    
 
 ## Contact 
 
