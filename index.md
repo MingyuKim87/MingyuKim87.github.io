@@ -18,7 +18,7 @@ Email : mgyu.kim [at] ubc.ca
 <hr>
 
 [2025-] CIFAR AI Safety Postdoctoral Fellowship by [CIFAR AI Safety][cifar_ai_safety].      
-[2024-] Postdoctoral Research Fellowship by [UBC Data Science Institute][ubcdsi].      
+[2024-] Postdoctoral Fellowship by [UBC Data Science Institute][ubcdsi].      
 [2024-] Postdoctoral Research Fellow at [UBC CS][ubccs].      
 [2023] Visiting PhD Student at DTU Congnitive System hosted by Prof. [Søren Hauberg][soren].  
 [2023] Research Intern at [NAVER Cloud AI Lab][naverai].  
