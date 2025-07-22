@@ -6,7 +6,7 @@ layout: page
 
 ## About me
 
-I’m a CIFAR AI Safety Postdoc Fellow at The University of British Columbia (UBC) working with Prof. [Mi-Jung Park][mijung-park] and [Young-Heon Kim][youngheon-kim]. I received an Ph.D. in Artificial Intelligence from KAIST under the supervision of Prof. [Se-Young Yun][seyoung-yun]. Prior to beginning of my PhD course, I worked as a research engineer at Samsung Heavy Industires. I recieved an M.S. in Ocean system engieerning from KAIST under the supervision of Prof. [Hyun Chung][hyun-chung] and B.S in Industrial engineering at Konkuk University. My research interests focus on (safe) generative models, probabilistic models, few-shot learning, multi-modal models, optimal transport, neural fields, implicit neural representation, multi-agent reinforcement learning and their applications. Here is my [CV].    
+I’m a postdoctoral research fellow at University of British Columbia (UBC) working with Prof. [Mi-Jung Park][mijung-park] and [Young-Heon Kim][youngheon-kim]. I received an Ph.D. in Artificial Intelligence from KAIST under the supervision of Prof. [Se-Young Yun][seyoung-yun]. Prior to beginning of my PhD course, I worked as a research engineer at Samsung Heavy Industires. I recieved an M.S. in Ocean system engieerning from KAIST under the supervision of Prof. [Hyun Chung][hyun-chung] and B.S in Industrial engineering at Konkuk University. My research interests focus on (safe) generative models, probabilistic models, few-shot learning, multi-modal models, optimal transport, neural fields, implicit neural representation, multi-agent reinforcement learning and their applications. Here is my [CV].    
 
 ## Contact 
 
@@ -17,6 +17,8 @@ Email : mgyu.kim [at] ubc.ca
 ## Research Experience
 <hr>
 
+[2025-] CIFAR AI Safety Postdoc Fellow funded by [CIFAR AI Safety][cifar_ai_safety].      
+[2024-] Postdoctoral Research Fellow funded by [UBC Data Science Institute][ubcdsi].      
 [2024-] Postdoctoral Research Fellow at [UBC CS][ubccs].      
 [2023] Visiting PhD Student at DTU Congnitive System hosted by Prof. [Søren Hauberg][soren].  
 [2023] Research Intern at [NAVER Cloud AI Lab][naverai].  
@@ -212,4 +214,6 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [ellis]: https://ellis.eu/phd-postdoc  
 [AISTATS2025_review]: https://aistats.org/aistats2025/awards.html   
 [ubccs]: https://www.cs.ubc.ca/people/mingyu-kim      
+[ubcdsi]: https://dsi.ubc.ca/expertise/postdocs      
+[cifar_ai_safety]: https://cifar.ca/cifarnews/2025/06/04/cifar-announces-first-ai-safety-catalyst-grants-under-new-national-program/      
 [naverai]: https://naver-career.gitbook.io/en/positions/ai-ml/generation-research     
