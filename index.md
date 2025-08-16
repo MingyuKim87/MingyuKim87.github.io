@@ -51,7 +51,7 @@ Email : mgyu.kim [at] ubc.ca
 International Conference on Artificial Intelligence and Statistics (AISTATS) 2025, Mai Khao     
 
 **<span style="font-family:Raleway; font-size:1.2em;">Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices and Large Scale Environments</span>**    
-[[paper]][facthash_paper][[projectpage]][facthash_project]  
+[[paper]][facthash_paper][[projectpage]][facthash_project][[conference page]][facthash_conference]  
 Jun-Seong Kim\*, <U>Mingyu Kim</U>\*, Geon-U Kim, Tae-Hyun Oh<sup>†</sup> and Jin-Hwa Kim<sup>†</sup> &nbsp; (\* : Co-first authors, &nbsp; <sup>†</sup> : Co-corresponding authors)     
 International Conference on Robotics & Automation (ICRA), 2025, Atlanta  
 IEEE Robotics and Automation Letters, 2024   
@@ -191,6 +191,7 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [synergynerf_project]: https://mingyukim87.github.io/SynergyNeRF  
 [facthash_paper]: https://ieeexplore.ieee.org/document/10679894  
 [facthash_project]: https://facthash.github.io  
+[facthash_conference]: https://ras.papercept.net/conferences/conferences/ICRA25/program/ICRA25_ContentListWeb_1.html           
 [ML4CO]: https://www.ecole.ai/2021/ml4co-competition/
 [polarGan]: https://www.sciencedirect.com/science/article/abs/pii/S0952197623011041?via%3Dihub
 [npwsa]: https://openreview.net/pdf?id=JPkQwEdYn8
