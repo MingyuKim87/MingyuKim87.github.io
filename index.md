@@ -170,7 +170,7 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 ### Academic Services 
 <hr>
 
-[Conference Reviewer] NeurIPS{2022,2024,2025}, ICML2025, ICLR{2023,2025}, CVPR{2024,2025}, AISTATS2025, ICCV2025, AAAI{2025,2026}, WACV2026    
+[Conference Reviewer] NeurIPS{2022,2024,2025}, ICML2025, ICLR{2023,2025}, CVPR{2024,2025}, AISTATS{2025,2026}, ICCV2025, AAAI{2025,2026}, WACV2026    
 [Workshop Reviewer] MetaLearn in NeurIPS2021, GRaM in ICML2024  
 [PhD Application Reviewer] [ELLIS-PhD][ellis] Program 2024  
 
