@@ -191,7 +191,7 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [synergynerf_project]: https://mingyukim87.github.io/SynergyNeRF  
 [facthash_paper]: https://ieeexplore.ieee.org/document/10679894  
 [facthash_project]: https://facthash.github.io  
-[facthash_conference]: https://ras.papercept.net/conferences/conferences/ICRA25/program/ICRA25_ContentListWeb_1.html           
+[facthash_conference]: https://ras.papercept.net/conferences/conferences/ICRA25/program/ICRA25_ContentListWeb_1.html#:~:text=Factorized%20Multi%2DResolution%20HashGrid%20for%20Efficient%20Neural%20Radiance%20Fields:%20Execution%20on%20Edge%2DDevices           
 [ML4CO]: https://www.ecole.ai/2021/ml4co-competition/
 [polarGan]: https://www.sciencedirect.com/science/article/abs/pii/S0952197623011041?via%3Dihub
 [npwsa]: https://openreview.net/pdf?id=JPkQwEdYn8
