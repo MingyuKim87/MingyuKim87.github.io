@@ -45,6 +45,11 @@ Email : mgyu.kim [at] ubc.ca
 ## Conference Publications (**Peer reviewed**)
 <hr>
 
+**<span style="font-family:Raleway; font-size:1.2em;">Training-Free Safe Denoisers For Safe Use of Diffusion Models</span>**  
+[[paper]][safe_denoiser_arxiv]    
+<U>Mingyu Kim</U>\*, Dongjun Kim\*, Amman Yusuf, Stefano Ermon and Mi Jung Park  
+Neural Information Processing Systems (NeurIPS) 2025, San Diego
+
 **<span style="font-family:Raleway; font-size:1.2em;"> Bayesian Principles Improve Prompt Learning In Vision-Language Models </span>**  
 [[paper]][BP_CLIP][[code]][bpclip_code]        
 <U>Mingyu Kim</U>\*, Jongwoo Ko\* and Mi-Jung Park    
@@ -211,6 +216,7 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [npwsa_video]: https://iclr.cc/virtual/2022/poster/6815
 [tensor_refine_workshop]: https://openreview.net/forum?id=28zXoRIcZd&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2023%2FWorkshop%2FDeep_Inverse%2FAuthors%23your-submissions)  
 [safe_denoiser_workshop]: https://openreview.net/forum?id=R9lU8ZeJjS    
+[safe_denoiser_arxiv]: https://arxiv.org/abs/2502.08011       
 [steertta_workshop]: https://openreview.net/forum?id=iV0WBCDGcx    
 [ellis]: https://ellis.eu/phd-postdoc  
 [AISTATS2025_review]: https://aistats.org/aistats2025/awards.html   
