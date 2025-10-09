@@ -197,7 +197,7 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [facthash_paper]: https://ieeexplore.ieee.org/document/10679894  
 [facthash_project]: https://facthash.github.io  
 [facthash_conference]: https://ras.papercept.net/conferences/conferences/ICRA25/program/ICRA25_ContentListWeb_1.html#:~:text=Factorized%20Multi%2DResolution%20HashGrid%20for%20Efficient%20Neural%20Radiance%20Fields:%20Execution%20on%20Edge%2DDevices           
-[ML4CO]: https://www.ecole.ai/2021/ml4co-competition/
+[ML4CO]: https://www.ecole.ai/2021/ml4co-competition/#:~:text=qqy%20(1st)%20and-,KAIST_OSI%20(2nd)      
 [polarGan]: https://www.sciencedirect.com/science/article/abs/pii/S0952197623011041?via%3Dihub
 [npwsa]: https://openreview.net/pdf?id=JPkQwEdYn8
 [npwsa_workshop]: https://openreview.net/forum?id=URep0STGewu&referrer=[the%20profile%20of%20Mingyu%20Kim]
@@ -219,7 +219,7 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [safe_denoiser_arxiv]: https://arxiv.org/abs/2502.08011       
 [steertta_workshop]: https://openreview.net/forum?id=iV0WBCDGcx    
 [ellis]: https://ellis.eu/phd-postdoc  
-[AISTATS2025_review]: https://aistats.org/aistats2025/awards.html   
+[AISTATS2025_review]: https://aistats.org/aistats2025/awards.html#:~:text=Mingyu%20Kim     
 [ubccs]: https://www.cs.ubc.ca/people/mingyu-kim      
 [ubcdsi]: https://dsi.ubc.ca/expertise/postdocs#:~:text=Mingyu%20Kim          
 [cifar_ai_safety]: https://cifar.ca/cifarnews/2025/06/04/cifar-announces-first-ai-safety-catalyst-grants-under-new-national-program/#:~:text=On%20the%20safe%20use%20of%20diffusion%2Dbased%20foundation%20models      
