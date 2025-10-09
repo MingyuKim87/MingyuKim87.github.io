@@ -221,6 +221,6 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [ellis]: https://ellis.eu/phd-postdoc  
 [AISTATS2025_review]: https://aistats.org/aistats2025/awards.html   
 [ubccs]: https://www.cs.ubc.ca/people/mingyu-kim      
-[ubcdsi]: https://dsi.ubc.ca/expertise/postdocs      
+[ubcdsi]: https://dsi.ubc.ca/expertise/postdocs#:~:text=Mingyu%20Kim          
 [cifar_ai_safety]: https://cifar.ca/cifarnews/2025/06/04/cifar-announces-first-ai-safety-catalyst-grants-under-new-national-program/#:~:text=On%20the%20safe%20use%20of%20diffusion%2Dbased%20foundation%20models      
 [naverai]: https://naver-career.gitbook.io/en/positions/ai-ml/generation-research     
