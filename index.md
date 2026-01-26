@@ -17,9 +17,9 @@ Email : mgyu.kim [at] ubc.ca
 ## Research Experience
 <hr>
 
-[2025-] CIFAR AI Safety Postdoctoral Fellowship by [CIFAR AI Safety][cifar_ai_safety].      
-[2024-] Postdoctoral Fellowship by [UBC Data Science Institute][ubcdsi].      
-[2024-] Postdoctoral Research Fellow at [UBC CS][ubccs].      
+[2025-2026] CIFAR AI Safety Postdoctoral Fellowship by [CIFAR AI Safety][cifar_ai_safety].      
+[2024-2026] Postdoctoral Fellowship by [UBC Data Science Institute][ubcdsi].      
+[2024-2026] Postdoctoral Research Fellow at [UBC CS][ubccs].      
 [2023] Visiting PhD Student at DTU Congnitive System hosted by Prof. [Søren Hauberg][soren].  
 [2023] Research Intern at [NAVER Cloud AI Lab][naverai].  
 [2014-2019] Research engineer at Samsung Heavy Industries.      
