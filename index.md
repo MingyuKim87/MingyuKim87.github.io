@@ -48,7 +48,7 @@ Email : mgyu.kim [at] ubc.ca
 
 **<span style="font-family:Raleway; font-size:1.2em;">Safety-Guided Flow (SGF): A Unified Framework for Negative Guidance in Safe Generation</span>**  
 *To Appear*   
-Mingyu Kim, Young-Heon Kim and Mijung Park  
+<U>Mingyu Kim</U>, Young-Heon Kim and Mijung Park  
 International Conference on Learning Representations (ICLR) 2026, Rio de Janeiro               
 
 **<span style="font-family:Raleway; font-size:1.2em;">Training-Free Safe Denoisers For Safe Use of Diffusion Models</span>**  
