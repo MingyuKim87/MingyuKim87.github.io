@@ -50,7 +50,7 @@ Email : mgyu.kim [at] ubc.ca
 [[paper]][sgf_openreview]   
 <U>Mingyu Kim</U>, Young-Heon Kim and Mijung Park  
 International Conference on Learning Representations (ICLR) 2026, Rio de Janeiro               
-**Oral Presentation**     
+**<span style="font-family:Raleway; font-size:0.8em;">Oral Presentation</span>**  
 
 **<span style="font-family:Raleway; font-size:1.2em;">Training-Free Safe Denoisers For Safe Use of Diffusion Models</span>**  
 [[paper]][safe_denoiser_arxiv]    
