@@ -53,7 +53,7 @@ International Conference on Learning Representations (ICLR) 2026, Rio de Janeiro
 **<span style="font-family:Raleway; font-size:1.0em;">Oral Presentation</span>**  
 
 **<span style="font-family:Raleway; font-size:1.2em;">Training-Free Safe Denoisers For Safe Use of Diffusion Models</span>**  
-[[paper]][safe_denoiser_arxiv][code][safe_denoiser_code]    
+[[paper]][safe_denoiser_arxiv][[code]][safe_denoiser_code]    
 <U>Mingyu Kim</U>\*, Dongjun Kim\*, Amman Yusuf, Stefano Ermon and Mijung Park  
 Advances in Neural Information Processing Systems (NeurIPS) 2025, San Diego         
 
