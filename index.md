@@ -194,7 +194,8 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [seyoung-yun]: http://osi.kaist.ac.kr/professor/
 [hyun-chung]: http://psel.cnu.ac.kr/mdps_team/dr-hyun-chung/
 [soren]: http://www2.compute.dtu.dk/~sohau/
-[CV]: https://drive.google.com/file/d/1sRTuvMK1iBCTnXjTZOA3G9Yn4yCBAEsE/view?usp=sharing               
+https://drive.google.com/file/d/16qsbVEKw_Bn1VdWMdnI0mx0ZAiSYgenS/view?usp=share_link
+[CV]: https://drive.google.com/file/d/16qsbVEKw_Bn1VdWMdnI0mx0ZAiSYgenS/view?usp=share_link               
 [Actnova]: https://actnova.io/  
 [BP_CLIP]: https://arxiv.org/abs/2504.14123
 [bpclip_code]: https://github.com/MingyuKim87/BP_CLIP      
