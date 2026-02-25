@@ -1,6 +1,6 @@
 title: MingyuKim
 author: MingyuKim
-email: mgyukim@mail.ubc.ca
+email: mgyukim@kookmin.ac.kr
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -14,8 +14,8 @@ sass:
 plainwhite:
   name: Mingyu Kim
   tagline: |
-    PostDoc.
-    at UBC
+    Assistant Professor
+    at Kookmin Univ.
   date_format: "%b %-d, %Y"
   sitemap: false # set to true to generate sitemap.xml content
   search: false # set to true to enable searchbar
@@ -29,7 +29,7 @@ plainwhite:
   # generate social links in footer
   social_links:
     # twitter: samarsault
-    googlescholar: nrZYdwQAAAAJ&hl=ko
+    googlescholar: nrZYdwQAAAAJ&hl=en
     linkedIn: in/mgyukim
     github:  MingyuKim87
     #dribbble: jekyll
