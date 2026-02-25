@@ -47,7 +47,7 @@ Email : mgyukim [at] kookmin.ac.kr
 <hr>
 
 **<span style="font-family:Raleway; font-size:1.2em;">Safety-Guided Flow (SGF): A Unified Framework for Negative Guidance in Safe Generation</span>**  
-[[paper]][sgf_openreview]   
+[[paper]][sgf_openreview][[code]][sgf_code]   
 <U>Mingyu Kim</U>, Young-Heon Kim and Mijung Park  
 International Conference on Learning Representations (ICLR) 2026, Rio de Janeiro               
 **<span style="font-family:Raleway; font-size:1.0em;">Oral Presentation</span>** <span style="font-family:Raleway; font-size:1.0em;">(Top 1.2% of ~19,000 submissions)</span>  
@@ -226,6 +226,7 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [safe_denoiser_arxiv]: https://arxiv.org/abs/2502.08011       
 [safe_denoiser_code]: https://github.com/MingyuKim87/Safe_Denoiser           
 [sgf_openreview]: https://openreview.net/forum?id=EA80Zib9UI      
+[sgf_code]: https://github.com/MingyuKim87/SGF           
 [steertta_workshop]: https://openreview.net/forum?id=iV0WBCDGcx    
 [ellis]: https://ellis.eu/phd-postdoc  
 [AISTATS2025_review]: https://aistats.org/aistats2025/awards.html#:~:text=Mingyu%20Kim     
