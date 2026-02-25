@@ -191,7 +191,7 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 
 [youngheon-kim]: https://personal.math.ubc.ca/~yhkim/     
 [mijung-park]: https://www.cs.ubc.ca/~mijungp/   
-[seyoung-yun]: http://osi.kaist.ac.kr/professor/    
+[seyoung-yun]: https://fbsqkd.github.io/    
 [hyun-chung]: http://psel.cnu.ac.kr/mdps_team/dr-hyun-chung/    
 [soren]: http://www2.compute.dtu.dk/~sohau/          
 [CV]: https://drive.google.com/file/d/16qsbVEKw_Bn1VdWMdnI0mx0ZAiSYgenS/view?usp=share_link               
