@@ -10,7 +10,7 @@ I’m an Assistant Professor in the Department of Artificial Intelligence at Koo
 
 ## Contact 
 
-Email : mgyu.kim [at] ubc.ca  
+Email : mgyukim [at] kookmin.ac.kr  
 
 <br/>  
 
