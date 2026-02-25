@@ -6,7 +6,7 @@ layout: page
 
 ## About me
 
-I’m an Assistant Professor in the Department of Artificial Intelligence at Kookmin University. I was a CIFAR AI Safety postdoctoral fellow and a postdoctoral research fellow in University of British Columbia (UBC) at Department of Computer Science. I received an Ph.D. in Artificial Intelligence from KAIST under the supervision of Prof. [Se-Young Yun][seyoung-yun]. Prior to beginning of my PhD course, I worked as a research engineer at Samsung Heavy Industires. I recieved an M.S. in Ocean system engieerning from KAIST under the supervision of Prof. [Hyun Chung][hyun-chung] and B.S in Industrial engineering at Konkuk University. My research interests focus on safe AI, generative models, probabilistic models, generalization, few-shot learning, meta-learning, Bayesian models, and variational inference. Here is my [CV].    
+I’m an Assistant Professor in the Department of Artificial Intelligence at Kookmin University. I was a CIFAR AI Safety postdoctoral fellow and a postdoctoral research fellow in the Department of Computer Science at University of British Columbia (UBC). I received an Ph.D. in Artificial Intelligence from KAIST under the supervision of Prof. [Se-Young Yun][seyoung-yun]. Prior to beginning of my PhD course, I worked as a research engineer at Samsung Heavy Industires. I recieved an M.S. in Ocean system engieerning from KAIST under the supervision of Prof. [Hyun Chung][hyun-chung] and B.S in Industrial engineering at Konkuk University. My research interests focus on safe AI, generative models, probabilistic models, generalization, few-shot learning, meta-learning, Bayesian models, and variational inference. Here is my [CV].    
 
 ## Contact 
 
