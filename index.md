@@ -17,7 +17,7 @@ Email : mgyukim [at] kookmin.ac.kr
 ## Research Experience
 <hr>
 
-[2026-] Assistant Professor in Department of Artificial Intelligence at Kookmin University [kmu_sw].     
+[2026-] Assistant Professor in Department of Artificial Intelligence at [Kookmin University][kmu_sw].     
 [2025-2026] CIFAR AI Safety Postdoctoral Fellowship by [CIFAR AI Safety][cifar_ai_safety].      
 [2024-2026] Postdoctoral Fellowship by [UBC Data Science Institute][ubcdsi].      
 [2024-2026] Postdoctoral Research Fellow at [UBC CS][ubccs].      
