@@ -17,6 +17,7 @@ Email : mgyukim [at] kookmin.ac.kr
 ## Research Experience
 <hr>
 
+[2026-] Assistant Professor in Department of Artificial Intelligence at Kookmin University [kmu_sw].     
 [2025-2026] CIFAR AI Safety Postdoctoral Fellowship by [CIFAR AI Safety][cifar_ai_safety].      
 [2024-2026] Postdoctoral Fellowship by [UBC Data Science Institute][ubcdsi].      
 [2024-2026] Postdoctoral Research Fellow at [UBC CS][ubccs].      
@@ -192,6 +193,7 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [youngheon-kim]: https://personal.math.ubc.ca/~yhkim/     
 [mijung-park]: https://www.cs.ubc.ca/~mijungp/   
 [seyoung-yun]: https://fbsqkd.github.io/    
+[kmu_sw]: https://cs.kookmin.ac.kr/intro/professor     
 [hyun-chung]: http://psel.cnu.ac.kr/mdps_team/dr-hyun-chung/    
 [soren]: http://www2.compute.dtu.dk/~sohau/          
 [CV]: https://drive.google.com/file/d/16qsbVEKw_Bn1VdWMdnI0mx0ZAiSYgenS/view?usp=share_link               
