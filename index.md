@@ -193,7 +193,7 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [youngheon-kim]: https://personal.math.ubc.ca/~yhkim/     
 [mijung-park]: https://www.cs.ubc.ca/~mijungp/   
 [seyoung-yun]: https://fbsqkd.github.io/    
-[kmu_sw]: https://cs.kookmin.ac.kr/intro/professor     
+[kmu_sw]: https://cs.kookmin.ac.kr/intro/professor#:~:text=김민규교수         
 [hyun-chung]: http://psel.cnu.ac.kr/mdps_team/dr-hyun-chung/    
 [soren]: http://www2.compute.dtu.dk/~sohau/          
 [CV]: https://drive.google.com/file/d/16qsbVEKw_Bn1VdWMdnI0mx0ZAiSYgenS/view?usp=share_link               
