@@ -6,7 +6,8 @@ layout: page
 
 ## About me
 
-I’m an Assistant Professor in the Department of Artificial Intelligence at Kookmin University. Previously, I was a CIFAR AI Safety postdoctoral fellow and a postdoctoral research fellow in the Department of Computer Science at University of British Columbia (UBC). I received an Ph.D. in Artificial Intelligence from KAIST under the supervision of Prof. [Se-Young Yun][seyoung-yun]. Prior to beginning of my PhD course, I worked as a research engineer at Samsung Heavy Industires. I recieved an M.S. in Ocean system engieerning from KAIST under the supervision of Prof. [Hyun Chung][hyun-chung] and B.S in Industrial engineering at Konkuk University. My research interests focus on safe AI, generative models, probabilistic models, generalization, few-shot learning, meta-learning, Bayesian models, and variational inference. Here is my [CV].    
+I am an Assistant Professor in the Department of Artificial Intelligence at Kookmin University, where I lead the [Probabilistic Machine Learning Lab (PML)][pml]. Previously, I was a CIFAR AI Safety Postdoctoral Fellow and a postdoctoral research fellow in the Department of Computer Science at the University of British Columbia (UBC). I received my Ph.D. in Artificial Intelligence from KAIST under the supervision of Prof. [Se-Young Yun][seyoung-yun]. Before starting my Ph.D., I worked as a research engineer at Samsung Heavy Industries. I also received an M.S. in Ocean Systems Engineering from KAIST under the supervision of Prof. [Hyun Chung][hyun-chung], and a B.S. in Industrial Engineering from Konkuk University. My research interests include safe AI, generative models, probabilistic machine learning, generalization, few-shot learning, meta-learning, Bayesian models, and variational inference. Here is my [CV].     
+
 
 ## Contact 
 
@@ -190,6 +191,7 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 <br/>
 <br/>  
 
+[pml]: https://mingyukim87.github.io/POML/     
 [youngheon-kim]: https://personal.math.ubc.ca/~yhkim/     
 [mijung-park]: https://www.cs.ubc.ca/~mijungp/   
 [seyoung-yun]: https://fbsqkd.github.io/    
