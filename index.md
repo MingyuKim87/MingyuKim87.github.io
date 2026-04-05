@@ -87,7 +87,7 @@ International Conference on Learning Representations (ICLR) 2022, Virtual
 <hr>
 
 **<span style="font-family:Raleway; font-size:1.2em;">LLM-as-UI: A Preliminary Exploration of Fine-Tuned Language Models as Intelligent Interfaces in Modular Ship Design</span>**    
-*To Appear*   
+[[paper]][llmasui_paper]   
 Minjoo Choi, Jaekyeong Lee, Stein Ove Erikstad and <U>Mingyu Kim</U>  
 Ocean Engineering, 2026  
 
@@ -236,6 +236,7 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [safe_denoiser_code]: https://github.com/MingyuKim87/Safe_Denoiser           
 [sgf_openreview]: https://openreview.net/forum?id=EA80Zib9UI      
 [sgf_code]: https://github.com/MingyuKim87/SGF           
+[llmasui_paper]: https://www.sciencedirect.com/science/article/abs/pii/S0029801826011789     
 [steertta_workshop]: https://openreview.net/forum?id=iV0WBCDGcx    
 [ellis]: https://ellis.eu/phd-postdoc  
 [AISTATS2025_review]: https://aistats.org/aistats2025/awards.html#:~:text=Mingyu%20Kim     
