@@ -89,7 +89,7 @@ International Conference on Learning Representations (ICLR) 2022, Virtual
 **<span style="font-family:Raleway; font-size:1.2em;">LLM-as-UI: A Preliminary Exploration of Fine-Tuned Language Models as Intelligent Interfaces in Modular Ship Design</span>**    
 [[paper]][llmasui_paper]   
 Minjoo Choi, Jaekyeong Lee, Stein Ove Erikstad and <U>Mingyu Kim</U>  
-Ocean Engineering, 2026  
+Ocean Engineering, Vol. 356, 2026  
 
 **<span style="font-family:Raleway; font-size:1.2em;">PolarGAN: Creating Realistic Arctic Sea Ice Concentration Images with User-Defined Geometric Preferences</span>**  
 [[paper]][polarGan]  
