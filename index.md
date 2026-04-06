@@ -203,7 +203,7 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [kmu_sw]: https://cs.kookmin.ac.kr/intro/professor#:~:text=김민규교수         
 [hyun-chung]: http://psel.cnu.ac.kr/mdps_team/dr-hyun-chung/    
 [soren]: http://www2.compute.dtu.dk/~sohau/          
-[CV]: https://drive.google.com/file/d/16qsbVEKw_Bn1VdWMdnI0mx0ZAiSYgenS/view?usp=share_link               
+[CV]: https://drive.google.com/file/d/164gtJm1bRnmTg5au1eeQexKhzoJPtJEB/view?usp=sharing                 
 [Actnova]: https://actnova.io/  
 [BP_CLIP]: https://arxiv.org/abs/2504.14123
 [bpclip_code]: https://github.com/MingyuKim87/BP_CLIP      
