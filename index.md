@@ -127,8 +127,8 @@ Journal of Marine Science and Technology, Vol. 19(4), 2014
 <hr>
 
 **<span style="font-family:Raleway; font-size:1.2em;">Single-Step Initialization for Exploratory Parallel Rollouts in Diffusion LLMs</span>**  
-[[paper]][steertta_workshop]      
-Dongjae Jeon<sup>*</sup>, Bumjun Kim<sup>*</sup>, <U>Mingyu Kim</U><sup>†</sup> and  Albert No<sup>†</sup> (<sup>†</sup> : Corresponding authors) *To Appear*      
+*To Appear*         
+Dongjae Jeon<sup>*</sup>, Bumjun Kim<sup>*</sup>, <U>Mingyu Kim</U><sup>†</sup> and  Albert No<sup>†</sup> (<sup>†</sup> : Corresponding authors)  
 SPIGM Workshop in International Conference on Machine Learning (ICML) 2026, Seoul
 
 **<span style="font-family:Raleway; font-size:1.2em;">SteeringTTA: Guiding Diffusion Trajectories for Robust Test-Time-Adaptation</span>**  
