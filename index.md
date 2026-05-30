@@ -126,6 +126,12 @@ Journal of Marine Science and Technology, Vol. 19(4), 2014
 ## Workshop Publications (**Peer reviewed**)
 <hr>
 
+**<span style="font-family:Raleway; font-size:1.2em;">Single-Step Initialization for Exploratory Parallel Rollouts in Diffusion LLMs</span>**  
+[[paper]][steertta_workshop]      
+Dongjae Jeon<sup>*</sup>, Bumjun Kim<sup>*</sup>, <U>Mingyu Kim</U><sup>†</sup> and  Albert No<sup>†</sup> (<sup>†</sup> : Corresponding authors)    
+SPIGM Workshop in International Conference on Machine Learning (ICML) 2026, Seoul
+
+
 **<span style="font-family:Raleway; font-size:1.2em;">SteeringTTA: Guiding Diffusion Trajectories for Robust Test-Time-Adaptation</span>**  
 [[paper]][steertta_workshop]      
 Jihyun Yu, Yoojin Oh, Wonho Bae, <U>Mingyu Kim</U><sup>†</sup> and Junhyug Noh<sup>†</sup> (<sup>†</sup> : Corresponding authors)    
@@ -190,7 +196,7 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 <hr>
 
 [Area Chair] NeurIPS2026 Position Track    
-[Reviewer] NeurIPS{2022,2024,2025}, ICML{2025,2026}, ICLR{2023,2025,2026}, CVPR{2024,2025,2026}, AISTATS{2025,2026}, ICCV&middot;ECCV{2025,2026}, AAAI{2025,2026}, WACV2026    
+[Reviewer] NeurIPS{2022,2024,2025}, ICML{2025,2026}, ICLR{2023,2025,2026}, CVPR{2024,2025,2026}, AISTATS{2025,2026}, ICCV&middot;ECCV{2025,2026}, AAAI{2025,2026}, WACV2026, CoLLAs2026    
 [Workshop Reviewer] MetaLearn in NeurIPS2021, GRaM in ICML2024  
 [PhD Application Reviewer] [ELLIS-PhD][ellis] Program 2024  
 
