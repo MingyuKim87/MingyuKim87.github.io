@@ -129,7 +129,7 @@ Journal of Marine Science and Technology, Vol. 19(4), 2014
 **<span style="font-family:Raleway; font-size:1.2em;">Low-Confidence Remasking Traps Flexibility: Realizing Arbitrary-Order Potential for Diverse Rollouts in Diffusion LLMs</span>**  
 *To Appear*         
 Moongyu Jeon<sup>*</sup>, Dongjae Jeon<sup>*</sup>, Bumjun Kim, <U>Mingyu Kim</U><sup>†</sup> and  Albert No<sup>†</sup> (<sup>†</sup> : Corresponding authors)  
-DiffuLM /BeNTo Workshop in Neural Information Processing Systems (NeurIPS) 2026, Sydney    
+DiffuLM / BeNTo Workshop in Neural Information Processing Systems (NeurIPS) 2026, Sydney    
 
 **<span style="font-family:Raleway; font-size:1.2em;">Single-Step Initialization for Exploratory Parallel Rollouts in Diffusion LLMs</span>**  
 *To Appear*         
