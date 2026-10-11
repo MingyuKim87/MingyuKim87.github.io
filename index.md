@@ -35,6 +35,7 @@ Email : mgyukim [at] kookmin.ac.kr
 ## Awards
 <hr>
 
+[2026] Top Area Chair at NeurIPS2026.   
 [2025] Top Reviewer at [NeurIPS2025][NeurIPS2025_review].     
 [2025] Best Reviewer at [AISTATS2025][AISTATS2025_review].     
 [2021] 2nd Winner in Student track at [Machine Learning for Combinatorial Optimization Challenge (ML4CO)][ML4CO] in NeurIPS2021 (Team : *KAIST_OSI*, Team leader).  
