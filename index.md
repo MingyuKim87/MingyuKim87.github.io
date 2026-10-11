@@ -35,7 +35,7 @@ Email : mgyukim [at] kookmin.ac.kr
 ## Awards
 <hr>
 
-[2026] Top Area Chair at NeurIPS2026.   
+[2026] Top Area Chair at [NeurIPS2026][NeurIPS2026_AC].   
 [2025] Top Reviewer at [NeurIPS2025][NeurIPS2025_review].     
 [2025] Best Reviewer at [AISTATS2025][AISTATS2025_review].     
 [2021] 2nd Winner in Student track at [Machine Learning for Combinatorial Optimization Challenge (ML4CO)][ML4CO] in NeurIPS2021 (Team : *KAIST_OSI*, Team leader).  
@@ -252,7 +252,8 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [steertta_workshop]: https://openreview.net/forum?id=iV0WBCDGcx    
 [ellis]: https://ellis.eu/phd-postdoc  
 [AISTATS2025_review]: https://aistats.org/aistats2025/awards.html#:~:text=Mingyu%20Kim     
-[NeurIPS2025_review]: https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer      
+[NeurIPS2025_review]: https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer   
+[NeurIPS2026_AC]: https://neurips.cc/Conferences/2026/ProgramCommittee    
 [ubccs]: https://www.cs.ubc.ca/people/mingyu-kim      
 [ubcdsi]: https://dsi.ubc.ca/expertise/postdocs#:~:text=Mingyu%20Kim          
 [cifar_ai_safety]: https://cifar.ca/cifarnews/2025/06/04/cifar-announces-first-ai-safety-catalyst-grants-under-new-national-program/#:~:text=On%20the%20safe%20use%20of%20diffusion%2Dbased%20foundation%20models      
