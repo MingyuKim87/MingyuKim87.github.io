@@ -84,8 +84,7 @@ International Conference on Learning Representations (ICLR) 2022, Virtual
 **<span style="font-family:Raleway; font-size:1.2em;">PolarityVQA: A Diagnostic Benchmark and Reliability-Aware Protocol for Multi-Object Attribute Binding in Text-to-Image Evaluation</span>**  
 *To Appear*  
 Jihyun Yu, Mingyeong Song, Jaeyi Sung, Soomin Kim, Wonho Bae, <U>Mingyu Kim</U> and Junhyug Noh  
-Evaluations & Datasets Track  
-Winter Conference on Applications of Computer Vision (WACV), 2027  
+Evaluations & Datasets Track in Winter Conference on Applications of Computer Vision (WACV), 2027  
 
 <br/>
 <br/> 
