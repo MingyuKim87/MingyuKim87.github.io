@@ -82,7 +82,7 @@ International Conference on Machine Learning (ICML) 2024, Vienna
 International Conference on Learning Representations (ICLR) 2022, Virtual  
 
 **<span style="font-family:Raleway; font-size:1.2em;">PolarityVQA: A Diagnostic Benchmark and Reliability-Aware Protocol for Multi-Object Attribute Binding in Text-to-Image Evaluation</span>**  
-Jihyun Yu, [Mingyeong Song](https://smk11602.github.io/)\*, [Jaeyi Sung](https://fringe-scallion-1cd.notion.site/JAEYI-SUNG-08fe0855cdc14fab8af4471052cd2cd2)\*, Soomin Kim, [Wonho Bae](https://won-bae.github.io/), <U>Mingyu Kim</U> and [Junhyug Noh](https://junhyug.github.io/)  
+Jihyun Yu, Mingyeong Song, Jaeyi Sung, Soomin Kim, Wonho Bae, <U>Mingyu Kim</U> and Junhyug Noh  
 Winter Conference on Applications of Computer Vision (WACV), 2027  
 Evaluations & Datasets Track  
 
@@ -139,12 +139,12 @@ Journal of Marine Science and Technology, Vol. 19(4), 2014
 <hr>
 
 **<span style="font-family:Raleway; font-size:1.2em;">Low-Confidence Remasking Traps Flexibility: Realizing Arbitrary-Order Potential for Diverse Rollouts in Diffusion LLMs</span>**  
-*To Appear*         
+[[paper]][remasking_workshop]  
 Moongyu Jeon<sup>*</sup>, Dongjae Jeon<sup>*</sup>, Bumjun Kim, <U>Mingyu Kim</U><sup>†</sup> and  Albert No<sup>†</sup> (<sup>†</sup> : Corresponding authors)  
 DiffuLM / BeNTo Workshop in Neural Information Processing Systems (NeurIPS) 2026, Sydney    
 
 **<span style="font-family:Raleway; font-size:1.2em;">Single-Step Initialization for Exploratory Parallel Rollouts in Diffusion LLMs</span>**  
-*To Appear*         
+[[paper]][single_step_workshop]  
 Dongjae Jeon<sup>*</sup>, Bumjun Kim<sup>*</sup>, <U>Mingyu Kim</U><sup>†</sup> and  Albert No<sup>†</sup> (<sup>†</sup> : Corresponding authors)  
 SPIGM Workshop in International Conference on Machine Learning (ICML) 2026, Seoul
 
@@ -261,6 +261,8 @@ Journal of the Society of Korea Industrial and Systems Engineering (*Domestic*),
 [sgf_code]: https://github.com/MingyuKim87/SGF           
 [llmasui_paper]: https://www.sciencedirect.com/science/article/abs/pii/S0029801826011789     
 [steertta_workshop]: https://openreview.net/forum?id=iV0WBCDGcx    
+[remasking_workshop]: <https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/BeNTo/Authors&referrer=%5BHomepage%5D(%2F)>
+[single_step_workshop]: <https://openreview.net/forum?id=tiFsyANbEP&referrer=%5Bthe%20profile%20of%20Mingyu%20Kim%5D(%2Fprofile%3Fid%3D~Mingyu_Kim2)>
 [ellis]: https://ellis.eu/phd-postdoc  
 [AISTATS2025_review]: https://aistats.org/aistats2025/awards.html#:~:text=Mingyu%20Kim     
 [NeurIPS2025_review]: https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer   
