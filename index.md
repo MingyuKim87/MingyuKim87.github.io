@@ -81,6 +81,11 @@ International Conference on Machine Learning (ICML) 2024, Vienna
 <U>Mingyu Kim</U>, Kyeong Ryeol Go and Se-Young Yun  
 International Conference on Learning Representations (ICLR) 2022, Virtual  
 
+**<span style="font-family:Raleway; font-size:1.2em;">PolarityVQA: A Diagnostic Benchmark and Reliability-Aware Protocol for Multi-Object Attribute Binding in Text-to-Image Evaluation</span>**  
+Jihyun Yu, [Mingyeong Song](https://smk11602.github.io/)\*, [Jaeyi Sung](https://fringe-scallion-1cd.notion.site/JAEYI-SUNG-08fe0855cdc14fab8af4471052cd2cd2)\*, Soomin Kim, [Wonho Bae](https://won-bae.github.io/), <U>Mingyu Kim</U> and [Junhyug Noh](https://junhyug.github.io/)  
+Winter Conference on Applications of Computer Vision (WACV), 2027  
+Evaluations & Datasets Track  
+
 <br/>
 <br/> 
 
@@ -108,6 +113,11 @@ IEEE Access, Vol. 11, 2023
 [[paper]][shellsbd]  
 <U>Mingyu Kim</U>, Minseok Kang and Hyun Chung  
 International Journal of Naval Architecture and Ocean Engineering, Vol. 7(3), 2015  
+
+
+**<span style="font-family:Raleway; font-size:1.2em;">Appearance-preserving simplification of non-watertight CAD models using NeuS-guided outer shell extraction</span>**  
+Taejoo Um, Soonjo Kown, <U>Mingyu Kim</U>, Sungchan Park and Minjoo Choi  
+Journal of Computational Design and Engineering  
 
 
 **<span style="font-family:Raleway; font-size:1.2em;">  Meta-learning Amidst Heterogeneity and Ambiguity </span>**  
