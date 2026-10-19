@@ -116,7 +116,8 @@ International Journal of Naval Architecture and Ocean Engineering, Vol. 7(3), 20
 
 
 **<span style="font-family:Raleway; font-size:1.2em;">Appearance-preserving simplification of non-watertight CAD models using NeuS-guided outer shell extraction</span>**  
-Taejoo Um, Soonjo Kown, <U>Mingyu Kim</U>, Sungchan Park and Minjoo Choi  
+*To Appear*  
+Taejoo Um, Soonjo Kwon, <U>Mingyu Kim</U>, Sungchan Park and Minjoo Choi  
 Journal of Computational Design and Engineering  
 
 
